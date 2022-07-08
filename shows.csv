@@ -1,0 +1,1587 @@
+id,release_year,age_certification,runtime,genres,seasons,imdb_score,imdb_votes,tmdb_popularity,tmdb_score
+ts22164,1969,TV-14,30,"['comedy', 'european']",4,8.8,72895,12.919,8.3
+ts45948,1972,TV-MA,43,['comedy'],1,8.1,2144,1.49,7
+ts20681,1989,TV-PG,24,['comedy'],9,8.9,302700,128.743,8.3
+ts22082,1982,TV-PG,51,"['action', 'scifi', 'crime', 'drama']",4,6.9,33760,44.378,7.5
+ts21715,1984,TV-Y,10,"['family', 'comedy', 'music', 'action', 'animation', 'fantasy', 'drama']",24,6.5,4948,49.384,6.6
+ts20678,1989,TV-G,23,"['comedy', 'romance', 'family']",5,7.1,34854,16.945,8
+ts25028,1983,TV-G,26,['family'],39,6.7,3126,1440.855,6.7
+ts23753,1989,TV-PG,24,"['comedy', 'family']",4,6.4,2866,7.506,6.3
+ts2760,1987,TV-Y,10,"['comedy', 'animation', 'family', 'crime', 'european']",13,6.1,1759,25.697,7.3
+ts987,1981,TV-Y,15,"['comedy', 'family', 'scifi', 'animation', 'european']",10,7.4,3514,7.748,7.4
+ts20981,2000,TV-PG,48,['reality'],42,7.4,24368,73.107,7.3
+ts22176,1997,TV-PG,44,"['scifi', 'drama', 'action']",10,8.4,90196,167.57,8.2
+ts21223,1997,TV-Y7,22,"['scifi', 'action', 'comedy', 'fantasy', 'animation', 'family']",24,7.6,172,138.135,7.6
+ts20339,1999,TV-14,23,"['action', 'comedy', 'animation', 'drama', 'fantasy']",21,8.8,112586,105.955,8.8
+ts34435,1998,TV-14,25,"['western', 'action', 'scifi', 'thriller', 'animation', 'comedy', 'drama']",1,8.9,112887,34.769,8.5
+ts20927,1993,TV-PG,47,"['scifi', 'action', 'drama']",7,8.1,61145,61.159,7.9
+ts5145,1998,TV-14,40,"['reality', 'comedy', 'drama', 'scifi']",37,7.8,3274,15.699,7.6
+ts21567,2000,TV-14,46,"['comedy', 'drama']",8,8.2,119054,51.125,7.8
+ts20983,1995,TV-14,24,"['scifi', 'action', 'drama', 'thriller', 'fantasy', 'animation']",1,8.5,64727,51.993,8.6
+ts22193,1994,TV-Y,26,"['scifi', 'comedy', 'family', 'fantasy', 'animation']",4,7.8,9708,30.176,7.9
+ts20960,1993,TV-Y7,22,"['scifi', 'action', 'fantasy', 'family']",29,6.5,21949,21.083,6.7
+ts11397,1993,TV-Y7,22,"['action', 'animation', 'scifi', 'western', 'fantasy', 'comedy', 'family']",4,6.2,3808,23.374,6.2
+ts22489,1995,TV-PG,22,"['scifi', 'fantasy', 'horror', 'thriller', 'family', 'music']",4,7.6,13361,88.924,8
+ts25252,1998,TV-Y,22,"['scifi', 'action', 'family', 'fantasy', 'animation', 'comedy', 'drama']",7,7.2,20888,75.438,7.3
+ts21034,2000,TV-14,25,"['action', 'comedy', 'scifi', 'animation', 'drama', 'fantasy', 'romance']",9,7.9,15823,149.742,8.6
+ts8570,1992,TV-G,28,['family'],14,3.8,9955,46.955,5
+ts20939,1996,TV-PG,21,"['drama', 'comedy', 'family']",6,5.7,3713,7.483,7.3
+ts21693,1994,TV-PG,22,"['comedy', 'drama', 'family']",6,6.2,12535,12.029,7.6
+ts22286,1998,TV-Y7,25,"['scifi', 'comedy', 'drama', 'family', 'fantasy', 'romance', 'animation', 'action']",4,8,4936,53.714,8.7
+ts21581,2000,TV-PG,21,"['comedy', 'drama']",8,7.2,4482,17.929,7.6
+ts20918,1999,TV-PG,19,['comedy'],5,6.8,2346,9.733,8
+ts22080,1999,TV-Y7,9,"['comedy', 'family', 'action', 'animation', 'european']",7,7.4,4185,26.074,7.5
+ts22039,1998,TV-MA,25,['comedy'],4,7.4,1703,11.362,7.6
+ts21684,1994,TV-MA,47,"['drama', 'romance', 'comedy']",7,7.8,3106,16.211,7.3
+ts28516,2000,TV-MA,40,"['crime', 'drama']",1,9,2326,6.971,8.8
+ts4,2008,TV-MA,48,"['drama', 'thriller', 'crime']",5,9.5,1727694,337.419,8.8
+ts9,2010,TV-MA,46,"['action', 'drama', 'scifi', 'thriller', 'horror']",11,8.2,945125,773.19,8.1
+ts26091,2004,TV-MA,49,"['crime', 'documentation', 'drama']",2,7.8,21531,14.185,7.7
+ts11,2010,TV-14,58,"['drama', 'romance', 'european']",6,8.7,197744,57.029,8.1
+ts21469,2005,TV-14,49,"['drama', 'romance']",18,7.6,293618,1215.393,8.3
+ts288536,2010,TV-PG,57,"['reality', 'european']",12,8.6,9564,10.825,7.7
+ts6495,2005,TV-14,44,"['thriller', 'crime', 'drama']",15,8.1,189191,401.416,8.3
+ts22337,2003,TV-14,44,"['action', 'drama', 'crime', 'thriller', 'comedy']",19,7.8,141049,254.207,7.6
+ts8308,2009,TV-PG,23,['comedy'],6,8.5,252564,48.311,8
+ts22011,2007,TV-PG,44,"['drama', 'family']",15,8.4,15743,68.46,8.3
+ts21465,2005,TV-14,45,"['scifi', 'thriller', 'drama', 'fantasy', 'horror']",15,8.5,428639,406.666,8.3
+ts17156,2003,TV-MA,28,['comedy'],5,8.7,297552,54.388,8.1
+ts20573,2006,TV-14,25,"['comedy', 'european']",5,8.5,147409,27.917,8.1
+ts12724,2006,TV-14,25,"['comedy', 'sport']",7,8.3,121514,34.689,7.4
+ts3371,2005,TV-Y7,24,"['scifi', 'family', 'fantasy', 'animation', 'action']",3,9.3,297336,61.284,8.7
+ts20604,2006,TV-14,43,"['drama', 'sport']",5,8.7,64449,32.434,8
+ts21511,2010,TV-Y7,22,"['scifi', 'animation', 'drama', 'fantasy', 'music', 'comedy', 'family']",9,7.6,20708,49.715,8.1
+ts19036,2001,TV-Y7,24,"['scifi', 'family', 'fantasy', 'animation', 'comedy']",10,7.2,38046,151.92,7.7
+ts32186,2003,TV-Y7,21,"['action', 'drama', 'thriller', 'animation', 'comedy', 'fantasy', 'family', 'scifi']",3,6.1,4577,104.486,7.5
+ts11313,2006,TV-14,24,"['scifi', 'animation', 'crime', 'drama', 'fantasy', 'thriller']",1,9,302147,104.037,8.7
+ts21247,2009,TV-14,42,"['scifi', 'drama', 'thriller', 'fantasy', 'horror', 'romance']",8,7.7,310776,463.661,8.3
+ts20305,2002,TV-PG,23,"['scifi', 'comedy', 'animation', 'action', 'fantasy', 'thriller']",6,8.4,93980,362.73,8.4
+ts2230,2003,TV-14,44,['reality'],24,5.6,17843,12.812,5.3
+ts17942,2003,TV-14,21,"['comedy', 'music']",3,8.8,62140,13.557,8.1
+ts22267,2001,TV-MA,25,"['comedy', 'crime']",12,8.6,41791,26.26,8
+ts6644,2010,TV-MA,58,"['drama', 'european']",4,8.5,23523,21.761,8.1
+ts22018,2007,TV-G,26,"['comedy', 'family', 'romance']",6,6.7,38281,96.149,8
+ts30311,2010,TV-G,25,"['comedy', 'drama', 'family', 'music', 'romance', 'sport']",4,6.9,24224,76.049,8.2
+ts21197,2008,TV-PG,44,"['action', 'scifi', 'drama', 'fantasy', 'european']",5,7.9,80138,123.15,7.9
+ts35155,2007,TV-14,24,"['scifi', 'action', 'comedy', 'drama', 'animation']",1,8.3,17024,22.238,8.2
+ts12787,2006,TV-14,24,"['scifi', 'animation', 'action', 'drama', 'thriller', 'war']",3,8.7,62367,36.627,8.5
+ts21544,2010,TV-Y7,22,"['action', 'comedy', 'drama', 'family', 'scifi', 'animation']",4,7.9,6500,31.514,8
+ts31263,2001,TV-14,52,['reality'],5,7.6,1104,4.376,7.8
+ts687,2004,TV-14,44,"['scifi', 'thriller', 'drama']",4,7.3,44971,21.12,7.2
+ts24028,2002,TV-14,29,"['comedy', 'european']",9,8.9,7539,5.171,8.3
+ts23752,2009,TV-MA,27,"['drama', 'comedy']",5,8.6,2110,15.027,7.8
+ts21706,2006,TV-PG,25,"['drama', 'scifi', 'fantasy', 'family']",3,7.2,14782,21.417,7.8
+ts21740,2008,TV-MA,25,"['scifi', 'fantasy', 'animation', 'comedy', 'drama', 'thriller', 'crime', 'horror', 'action']",3,8.3,1856,27.454,7.6
+ts30356,2010,TV-Y,15,"['action', 'animation', 'comedy', 'family']",6,7.6,1049,39.732,7.2
+ts31514,2003,TV-Y,23,"['animation', 'family']",4,7,13,26.42,6.6
+ts22005,2007,TV-PG,23,"['action', 'reality', 'animation', 'family', 'comedy', 'drama']",6,7.4,10523,16.775,7.3
+ts21688,2009,TV-14,64,"['comedy', 'drama', 'romance']",1,7.9,11579,75.209,8.3
+ts22318,2004,TV-G,23,"['action', 'comedy', 'family', 'fantasy', 'animation', 'thriller', 'european']",8,6.2,6700,25.162,8.2
+ts12815,2009,TV-G,25,"['comedy', 'family']",4,6.3,12046,65.327,8.8
+ts15986,2008,TV-MA,141,"['scifi', 'thriller', 'comedy', 'drama', 'horror', 'european']",1,7.6,19684,9.747,7.3
+ts26322,2008,TV-14,30,"['animation', 'romance', 'comedy', 'drama']",2,8,14307,28.197,8.5
+ts33559,2007,TV-G,7,"['animation', 'comedy', 'family', 'european']",6,8,25,24.246,7.9
+ts56549,2003,TV-14,22,"['comedy', 'horror', 'reality', 'scifi', 'thriller']",5,6.7,2512,3.501,6.5
+ts21421,2005,TV-G,11,"['animation', 'family', 'comedy', 'european']",4,3.9,93,21.257,7.1
+ts20526,2006,TV-14,22,"['comedy', 'drama', 'sport', 'romance']",10,6.6,4417,7.989,8.4
+ts30083,2010,TV-14,26,"['scifi', 'action', 'comedy', 'drama', 'fantasy', 'animation']",1,7.7,13848,19.033,8
+ts23835,2009,TV-Y,6,"['comedy', 'family', 'action', 'animation']",5,7.6,3114,41.69,6.9
+ts23808,2009,TV-MA,55,"['comedy', 'documentation']",1,8.1,1740,3.829,7.9
+ts20544,2006,TV-14,23,"['comedy', 'drama', 'animation', 'romance']",1,8.2,9763,15.959,8.4
+ts30288,2010,TV-14,35,"['action', 'drama', 'scifi', 'war', 'animation']",2,7.8,1291,14.729,7.8
+ts21967,2005,TV-Y7,18,"['comedy', 'drama', 'family', 'scifi', 'animation', 'action']",6,5.1,8172,15.75,5.6
+ts12701,2003,TV-G,24,"['action', 'fantasy', 'thriller', 'comedy', 'family', 'scifi', 'romance', 'animation']",5,7.3,5109,22.785,7.7
+ts21695,2009,TV-14,61,"['action', 'comedy', 'reality', 'romance', 'thriller']",2,7.8,1951,9.565,7.8
+ts121176,2010,TV-PG,24,"['horror', 'music', 'animation', 'comedy', 'family', 'fantasy', 'scifi']",1,6.5,330,6.803,8.5
+ts1893,2009,TV-G,14,"['comedy', 'family', 'fantasy', 'animation', 'european']",3,7.5,1222,18.311,6.6
+ts20535,2009,TV-G,17,"['animation', 'comedy', 'family', 'european']",5,5.3,2499,19.716,5.3
+ts38159,2008,TV-Y7,22,"['action', 'drama', 'scifi', 'fantasy', 'animation', 'family', 'european']",3,8.1,1469,48.59,8.9
+ts25765,2008,TV-14,25,"['scifi', 'romance', 'animation', 'action', 'drama', 'fantasy', 'horror']",2,7.3,5172,16.465,8.4
+ts3666,2007,TV-Y7,25,"['scifi', 'animation', 'comedy', 'drama']",1,7.9,863,11.511,8.1
+ts21664,2001,TV-14,20,['comedy'],5,7,2303,5.453,7.9
+ts1464,2008,TV-MA,44,"['action', 'crime', 'drama', 'thriller', 'comedy']",2,8.1,755,208.108,7.5
+ts72322,2009,TV-14,43,"['drama', 'action']",2,6.6,284,29.715,7.4
+ts74928,2009,TV-14,44,"['documentation', 'history', 'war', 'european']",1,7.6,603,2.496,7.3
+ts20358,2002,TV-14,21,['comedy'],4,7,1827,5.019,8.1
+ts23319,2009,TV-Y,14,"['comedy', 'fantasy', 'animation', 'family', 'european']",3,6.9,1083,17.668,6.6
+ts63295,2006,TV-MA,72,['drama'],1,8.7,1034,2.452,9
+ts44663,2010,TV-Y,9,"['animation', 'comedy', 'european']",1,7.4,572,7.759,7.3
+ts37200,2004,TV-G,3,"['animation', 'family', 'european']",2,6.2,120,2.886,7.2
+ts56589,2010,TV-Y,11,"['animation', 'comedy', 'family']",6,5.2,156,6.172,6.3
+ts1413,2009,TV-14,58,"['drama', 'romance']",1,7.9,475,9.386,7.8
+ts4866,2008,TV-G,67,"['drama', 'comedy', 'romance']",1,7.4,461,3.878,7.3
+ts34414,2007,TV-MA,44,['comedy'],1,7.2,203,19.697,7.7
+ts29199,2006,TV-PG,56,['comedy'],1,7.9,437,0.673,8
+ts12444,2010,TV-MA,59,['drama'],1,6.8,90,4.571,5.3
+ts39604,2006,TV-14,48,['drama'],1,7.4,40,23.073,2.3
+ts23797,2009,TV-14,37,"['action', 'comedy', 'sport', 'crime']",3,7.6,302,9.613,9.2
+ts70843,2005,TV-14,44,"['drama', 'romance', 'comedy']",1,6.8,128,1.448,5
+ts13411,2005,TV-14,44,"['documentation', 'european']",1,7.1,60,0.84,7
+ts8175,2012,TV-PG,56,"['drama', 'history', 'european']",11,8.5,25562,24.955,7.4
+ts20564,2011,TV-14,21,"['comedy', 'romance']",7,7.7,216209,65.381,7.3
+ts278,2011,TV-MA,59,"['scifi', 'thriller', 'drama', 'european']",5,8.8,515577,74.102,8.3
+ts21580,2012,TV-14,53,"['western', 'action', 'crime', 'drama']",6,8.3,34362,32.776,7.8
+ts20660,2011,TV-MA,54,"['drama', 'comedy']",11,8.6,230243,175.426,8.1
+ts21806,2011,TV-14,21,"['comedy', 'romance']",3,7.8,37778,19.134,7.1
+ts27680,2012,TV-14,59,"['comedy', 'drama', 'romance', 'european']",5,8.3,6844,5.554,7.2
+ts21599,2012,TV-14,42,['reality'],13,7.4,3874,23.186,7.9
+ts33338,2011,TV-MA,48,"['drama', 'thriller', 'crime', 'european']",2,8.4,22420,18.036,7.4
+ts32835,2011,TV-14,23,"['drama', 'action', 'comedy', 'crime', 'animation', 'documentation', 'family', 'fantasy']",3,9,87857,117.924,8.8
+ts17598,2012,TV-14,42,"['action', 'crime', 'drama', 'scifi']",8,7.5,425716,125.061,6.7
+ts20457,2012,TV-Y7,23,"['action', 'scifi', 'comedy', 'drama', 'family', 'fantasy', 'animation']",4,8.4,117464,63.789,8.3
+ts20429,2012,TV-MA,23,"['scifi', 'action', 'animation', 'drama', 'western', 'comedy', 'fantasy', 'romance', 'thriller']",4,7.6,43727,73.783,8.3
+ts6506,2011,TV-MA,51,"['drama', 'history', 'romance', 'crime']",3,7.9,50556,23.185,7.6
+ts20458,2012,TV-Y7,17,"['scifi', 'comedy', 'family', 'fantasy', 'animation', 'action', 'european']",15,7.2,4519,60.536,7.8
+ts34087,2011,TV-14,24,"['scifi', 'thriller', 'animation', 'drama', 'fantasy']",1,8.3,9055,17.086,8.2
+ts27468,2012,TV-Y7,22,"['action', 'scifi', 'comedy', 'family', 'animation']",4,6.4,915,18.838,8.3
+ts20556,2011,TV-14,41,"['reality', 'romance', 'documentation', 'comedy']",11,4.5,28,24.248,6.6
+ts9794,2012,TV-14,20,"['comedy', 'family', 'animation']",11,8,12363,26.158,7.1
+ts20500,2012,TV-MA,45,"['crime', 'comedy', 'drama']",3,7.9,29196,15.935,7.4
+ts34151,2011,TV-14,26,"['scifi', 'action', 'animation', 'comedy', 'crime']",2,7.3,998,14.385,7.2
+ts11151,2011,TV-MA,25,"['scifi', 'action', 'animation', 'drama', 'fantasy', 'thriller']",2,8.2,12568,40.567,8.1
+ts9246,2011,TV-14,24,"['scifi', 'horror', 'family', 'animation', 'action', 'drama', 'fantasy']",2,7.5,12741,44.755,8.1
+ts19779,2012,TV-Y,6,"['animation', 'comedy', 'family']",7,7.3,1806,18.766,7.4
+ts7708,2011,TV-PG,23,"['drama', 'fantasy', 'romance', 'animation']",1,8.2,12682,27.728,8.6
+ts27586,2012,TV-14,24,"['scifi', 'action', 'comedy', 'animation', 'fantasy']",3,7.8,3899,20.767,8.6
+ts18551,2012,TV-14,27,"['comedy', 'drama', 'european']",5,5.9,20,19.717,6.8
+ts34740,2011,TV-PG,22,"['scifi', 'fantasy', 'horror', 'action', 'comedy']",2,6.9,4367,19.118,8.3
+ts22249,2012,TV-14,24,"['animation', 'comedy', 'sport']",3,8.3,8052,51.824,8.7
+ts36647,2012,TV-MA,40,"['comedy', 'drama', 'european']",5,8.1,8718,13.801,7.7
+ts34921,2011,TV-14,24,"['action', 'scifi', 'animation']",1,6.2,1458,11.084,6.5
+ts35426,2011,TV-G,4,"['animation', 'european']",3,5,37,3.268,5.8
+ts27835,2012,TV-14,22,['documentation'],10,7.5,1462,7.08,9
+ts45996,2012,TV-14,44,"['reality', 'documentation']",9,7.4,264,14.65,8.1
+ts55532,2012,TV-Y,16,"['animation', 'european']",5,7.6,16,4.054,5
+ts34737,2011,TV-MA,42,"['drama', 'action', 'crime', 'thriller']",2,8,2445,99.071,7.7
+ts21081,2012,TV-14,44,"['crime', 'drama', 'history', 'thriller']",1,8.4,4923,314.603,7.6
+ts81858,2011,TV-G,2,"['comedy', 'family', 'animation', 'drama', 'horror', 'thriller']",5,7.1,582,16.828,7.4
+ts39093,2012,TV-MA,22,"['drama', 'comedy']",4,6.8,2723,12.763,7
+ts26776,2012,TV-Y7,22,"['comedy', 'action', 'scifi', 'family', 'fantasy', 'animation']",2,6.1,388,10.899,7.6
+ts33349,2011,TV-Y,14,"['family', 'fantasy', 'animation', 'comedy']",4,5.8,125,15.113,7.7
+ts191698,2011,TV-Y,5,"['animation', 'family', 'music']",4,6.4,94,2.728,10
+ts19165,2012,TV-G,43,['family'],3,6.4,125,0.922,7
+ts58528,2011,TV-PG,47,['reality'],8,7.4,42,2.189,9.1
+ts27875,2012,TV-Y,5,"['animation', 'family']",2,6.4,89,6.158,5
+ts6879,2012,TV-MA,45,['drama'],2,8.5,755,7.665,7.9
+ts39112,2011,TV-Y,15,"['action', 'animation', 'family', 'comedy']",3,6,16,3.382,8
+ts32460,2011,TV-14,43,"['drama', 'comedy']",1,7.1,108,9.281,1
+ts32561,2011,TV-14,46,"['drama', 'comedy', 'romance']",1,6.9,140,4.876,7.3
+ts69208,2012,TV-Y,45,"['drama', 'comedy']",1,7.6,116,1.96,6.5
+ts44064,2011,TV-14,46,"['comedy', 'drama', 'romance']",1,6.5,114,3.342,8
+ts39465,2012,TV-14,44,"['drama', 'comedy', 'romance']",1,6.8,14,1.4,6
+ts37864,2011,TV-PG,47,"['drama', 'romance', 'history']",1,7,142,1.355,7
+ts20837,2014,TV-MA,60,"['scifi', 'drama', 'fantasy', 'romance']",6,8.4,152435,238.679,8.2
+ts20110,2013,TV-MA,58,"['drama', 'crime', 'european']",6,8.8,485506,971.727,8.6
+ts20682,2013,TV-MA,24,"['scifi', 'action', 'drama', 'fantasy', 'horror', 'animation']",4,9,325381,139.388,8.6
+ts1639,2013,TV-14,43,"['drama', 'crime', 'thriller']",9,8,238138,279.921,7.5
+ts20351,2014,TV-PG,64,"['reality', 'european']",14,6.1,1975,31.913,5.6
+ts11188,2014,TV-14,42,"['scifi', 'drama', 'action']",8,7.6,336888,751.315,7.8
+ts20292,2014,TV-14,43,"['scifi', 'action', 'crime', 'drama', 'thriller']",5,7.8,226081,170.642,7.6
+ts16045,2014,TV-14,41,['reality'],8,6.5,2450,15.818,5.9
+ts8146,2014,TV-14,42,"['drama', 'action', 'scifi']",7,7.6,242221,224.641,7.9
+ts21374,2014,TV-14,43,"['drama', 'thriller', 'crime']",6,8.1,146712,59.834,7.9
+ts20248,2013,TV-14,42,"['drama', 'fantasy']",4,7.5,47751,48.886,8
+ts14583,2014,TV-MA,26,"['drama', 'comedy', 'animation']",6,8.8,143584,92.62,8.6
+ts6,2013,TV-MA,52,['drama'],6,8.7,494092,46.137,8.1
+ts20108,2014,TV-G,24,"['scifi', 'action', 'comedy', 'family']",5,5.6,5245,121.52,8.2
+ts20823,2013,TV-MA,59,"['drama', 'comedy', 'crime']",7,8.1,295591,72.825,7.7
+ts20824,2013,TV-14,43,"['scifi', 'drama', 'fantasy', 'horror']",5,8.3,131574,139.994,8.6
+ts21367,2014,TV-14,42,"['drama', 'comedy']",5,7.8,46286,120.677,7.9
+ts20280,2014,TV-MA,55,"['action', 'drama', 'history', 'documentation']",2,8,71229,34.279,7.4
+ts35682,2013,TV-MA,46,"['drama', 'crime', 'thriller']",9,8.6,21747,29.782,8.1
+ts20261,2014,TV-14,43,"['war', 'thriller', 'drama']",6,7.6,22563,56.834,6.8
+ts34950,2013,TV-MA,25,"['action', 'scifi', 'fantasy', 'animation', 'comedy', 'drama']",1,7.9,13372,20.572,8.4
+ts20791,2014,TV-14,43,"['action', 'drama', 'scifi', 'comedy', 'horror', 'romance']",5,6.6,36059,81.469,7.2
+ts20288,2014,TV-14,45,"['scifi', 'crime', 'fantasy', 'horror', 'action']",3,6.9,20132,38.919,6.3
+ts2727,2013,TV-MA,26,"['drama', 'comedy', 'european']",3,8.1,31976,9.748,7.5
+ts32218,2013,TV-G,24,"['action', 'scifi', 'family', 'comedy', 'drama']",4,5.6,5340,62.125,8.1
+ts20097,2013,TV-MA,49,"['thriller', 'drama', 'fantasy', 'horror', 'scifi']",3,7,39590,52.542,7.2
+ts314002,2014,TV-14,24,"['action', 'scifi', 'comedy', 'fantasy', 'animation']",5,7.9,30341,37.744,8.5
+ts20281,2013,TV-Y,24,"['family', 'fantasy', 'animation']",4,6.8,2915,34.201,7.1
+ts20014,2014,TV-14,24,"['scifi', 'animation', 'action', 'comedy', 'drama', 'fantasy', 'romance', 'family']",4,7.8,2115,59.673,8.2
+ts35570,2014,TV-MA,24,"['comedy', 'european']",3,8.1,19259,14.348,7.5
+ts32271,2013,TV-14,48,['drama'],3,8.6,6958,18.747,8.4
+ts4213,2013,TV-PG,44,['reality'],5,7.5,886,1.639,8
+ts20917,2014,TV-14,42,"['drama', 'romance', 'fantasy', 'horror', 'action', 'animation', 'comedy']",4,7.5,12069,21.667,7.6
+ts35282,2013,TV-G,24,"['drama', 'romance', 'family']",7,5.9,1928,21.631,7.2
+ts20336,2014,TV-14,57,"['drama', 'romance', 'thriller', 'action', 'crime', 'european']",4,8.1,6018,28.303,6.1
+ts36836,2013,TV-PG,20,['comedy'],1,8.3,3616,5.587,8.3
+ts22426,2014,TV-14,24,"['scifi', 'romance', 'animation', 'action', 'drama', 'fantasy']",2,7.1,3273,55.055,7.8
+ts42168,2014,TV-14,57,"['war', 'action', 'drama', 'history']",5,7.9,35515,23.136,7.7
+ts22383,2013,TV-Y7,10,"['comedy', 'animation', 'family', 'european']",4,5.5,1802,18.955,6.2
+ts11794,2013,TV-Y,19,"['animation', 'fantasy', 'scifi', 'comedy', 'family']",3,6.4,620,5.963,7.8
+ts20310,2014,TV-14,42,"['comedy', 'drama']",5,6.9,4523,10.046,5.5
+ts35244,2014,TV-PG,43,['reality'],5,7.1,1126,8.872,7.5
+ts82979,2014,TV-G,11,"['comedy', 'drama', 'family', 'action', 'animation', 'fantasy', 'european']",5,6.1,411,34.469,8.3
+ts10206,2013,TV-Y7,30,"['action', 'comedy', 'drama', 'family', 'fantasy', 'music', 'romance', 'animation']",5,7.7,1130,34.405,7.8
+ts20709,2013,TV-14,24,"['comedy', 'drama', 'sport', 'animation']",4,7.7,808,44.311,7.4
+ts32060,2013,TV-G,24,"['drama', 'family', 'comedy']",1,5.6,9507,37.963,7.9
+ts20790,2014,TV-14,21,"['comedy', 'drama', 'romance']",5,7.3,15627,26.61,6.7
+ts20883,2014,TV-G,23,"['comedy', 'family']",4,5.1,2551,43.714,7.5
+ts33590,2013,TV-G,24,"['comedy', 'family', 'fantasy']",2,5,2471,23.622,7.1
+ts21368,2014,TV-MA,90,"['action', 'drama', 'romance', 'crime']",2,7.4,5975,47.857,8.1
+ts2161,2013,TV-Y,2,"['comedy', 'family', 'fantasy', 'animation', 'action', 'european']",4,6.2,800,12.303,6.7
+ts34066,2013,TV-G,25,"['scifi', 'action', 'comedy', 'drama', 'family', 'fantasy', 'romance']",4,6.7,3924,54.741,7.6
+ts53641,2013,TV-Y,23,['animation'],3,6.4,104,0.975,4
+ts37187,2014,TV-MA,43,"['crime', 'drama', 'romance']",5,6.8,375,128.933,7.7
+ts58137,2013,TV-Y7,22,"['action', 'animation', 'comedy', 'drama', 'family', 'fantasy', 'scifi']",3,4.8,635,16.672,7.4
+ts75104,2014,TV-MA,45,"['crime', 'action']",2,6.2,660,2.366,6.3
+ts521,2013,TV-14,41,['reality'],9,4.6,459,12.706,8.5
+ts33840,2013,TV-14,23,"['scifi', 'animation', 'drama', 'fantasy', 'romance']",2,7.3,1152,29.64,7.4
+ts58010,2014,TV-G,18,"['comedy', 'family', 'music', 'animation']",4,4.3,300,6.244,5.5
+ts16117,2013,TV-MA,45,"['action', 'drama', 'romance']",1,7.3,1681,2.902,8
+ts76743,2013,TV-G,23,"['action', 'animation', 'comedy', 'drama', 'fantasy', 'family']",2,6.3,188,8.391,8.2
+ts75833,2014,TV-Y,5,"['animation', 'family']",1,6.1,65,8.658,5.7
+ts3799,2014,TV-Y7,23,"['action', 'comedy', 'family', 'fantasy', 'animation']",5,7,2008,41.022,6.8
+ts35628,2014,TV-G,25,"['comedy', 'documentation', 'reality']",4,8.5,22,16.83,7.1
+ts20781,2014,TV-14,73,"['drama', 'comedy']",1,8.6,1883,10.121,9.1
+ts34074,2013,TV-MA,63,['drama'],1,7.6,1803,3.764,7.5
+ts122290,2014,TV-14,44,['drama'],1,8.2,247,0.6,10
+ts82860,2014,TV-14,44,['drama'],1,7.6,11,0.6,6
+ts36127,2013,TV-PG,19,"['animation', 'family', 'comedy', 'sport', 'scifi', 'action']",3,6.5,593,12.093,8.5
+ts67797,2014,TV-PG,14,"['animation', 'european']",2,5.6,30,1.298,7
+ts20238,2014,TV-PG,45,"['comedy', 'romance']",1,7.3,424,5.461,9
+ts8,2015,TV-MA,49,"['comedy', 'drama', 'crime']",6,8.8,404920,352.657,8.5
+ts36577,2015,TV-MA,55,"['action', 'war', 'drama', 'history', 'european']",5,8.5,126473,180.003,8.3
+ts38796,2016,TV-14,52,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",5,8.7,989090,249.853,8.6
+ts21867,2015,TV-14,22,['comedy'],6,8.5,112537,38.016,7.7
+ts37143,2015,TV-MA,48,"['reality', 'documentation']",8,8.4,4622,31.271,6.8
+ts35251,2015,TV-MA,30,"['comedy', 'drama']",7,8.2,48435,33.885,7.7
+ts41766,2016,TV-14,23,"['scifi', 'comedy', 'romance', 'drama', 'fantasy']",4,8.2,148562,39.411,8
+ts36885,2015,TV-MA,30,"['action', 'scifi', 'comedy', 'horror', 'fantasy', 'thriller']",3,8.4,70087,50.633,7.7
+ts37539,2015,TV-PG,24,"['action', 'fantasy', 'scifi', 'animation', 'comedy']",2,8.7,148386,132.794,8.4
+ts37490,2015,TV-14,41,['drama'],8,7.6,24142,101.31,8.4
+ts41961,2016,TV-MA,42,"['drama', 'thriller', 'action', 'crime']",5,7.9,28537,54.867,7.6
+ts42069,2016,TV-MA,56,"['drama', 'history', 'european']",5,8.7,190878,72.323,8.2
+ts37866,2015,TV-MA,55,"['comedy', 'drama', 'european']",4,8.3,13331,15.398,8
+ts38304,2015,TV-MA,29,['comedy'],3,7.3,2706,20.006,7.1
+ts36952,2015,TV-14,22,['comedy'],4,8.1,6445,18.553,7.6
+ts35793,2015,TV-PG,42,['reality'],9,8.3,3538,34.934,8.3
+ts39007,2016,TV-14,42,"['scifi', 'fantasy', 'horror', 'action', 'drama']",5,6.1,21852,155.023,7.1
+ts35201,2015,TV-MA,24,"['animation', 'comedy', 'drama', 'fantasy', 'thriller']",5,8.2,9651,27.516,8.6
+ts36147,2016,TV-14,47,"['scifi', 'crime', 'drama', 'fantasy']",6,8.1,308291,761.064,8.5
+ts36550,2016,TV-14,42,"['scifi', 'action', 'drama']",7,6.8,101178,120.753,7.4
+ts38199,2015,TV-14,44,"['drama', 'scifi', 'fantasy']",5,7.6,49557,75.849,7.7
+ts53051,2016,TV-MA,55,"['scifi', 'drama', 'fantasy']",2,7.9,100911,25.314,7.6
+ts47714,2016,TV-14,22,['comedy'],5,8.3,16970,26.582,7.7
+ts21869,2015,TV-MA,62,"['scifi', 'thriller', 'drama']",2,8.2,151518,36.84,7.8
+ts42170,2016,TV-MA,30,"['comedy', 'european']",1,7.7,18546,6.846,7.3
+ts70529,2016,TV-MA,30,"['comedy', 'drama']",3,7.7,18040,28.929,7
+ts18010,2015,TV-MA,57,"['drama', 'thriller']",3,7.9,50028,24.67,7.3
+ts38718,2016,TV-MA,46,"['drama', 'horror', 'thriller', 'crime']",4,6.7,14071,27.468,6.7
+ts42120,2016,TV-MA,45,"['scifi', 'drama', 'thriller', 'crime']",3,8,54566,51.169,7.6
+ts36631,2015,TV-MA,52,"['drama', 'thriller', 'crime']",3,8.8,404486,83.072,7.9
+ts42062,2015,TV-Y7,22,"['family', 'fantasy', 'romance', 'animation', 'action']",4,7.7,10102,261.845,8
+ts41956,2016,TV-PG,44,"['war', 'action', 'drama', 'thriller']",3,7.5,88019,51.752,7.2
+ts52922,2016,TV-14,46,"['documentation', 'history']",3,9,5761,5.463,8.1
+ts36015,2015,TV-14,43,"['action', 'drama']",3,7.9,45628,20.79,7.6
+ts21981,2015,TV-14,42,"['scifi', 'comedy', 'crime', 'drama', 'horror']",5,7.8,66488,53.416,7.8
+ts38710,2016,TV-14,43,"['action', 'scifi', 'western', 'drama', 'fantasy', 'thriller']",4,7.3,22256,32.006,8
+ts35253,2015,TV-14,43,"['scifi', 'drama', 'thriller', 'action']",3,7.5,41867,26.367,6.6
+ts35554,2015,TV-14,43,"['crime', 'horror', 'thriller', 'comedy', 'drama']",3,7.1,40082,86.551,6.9
+ts38090,2015,TV-MA,54,"['drama', 'history', 'romance', 'war', 'documentation', 'comedy', 'european']",3,7.9,16273,45.242,7.9
+ts42014,2016,TV-14,46,['reality'],6,7.6,2616,11.052,6.8
+ts35563,2015,TV-14,42,"['scifi', 'drama', 'action']",6,6.2,121939,116.295,7.3
+ts36129,2015,TV-14,42,['comedy'],4,7.8,19738,37.838,6.9
+ts42077,2016,TV-14,54,"['war', 'drama', 'history', 'romance', 'thriller', 'european']",3,7.9,18575,28.95,7.9
+ts42687,2015,TV-G,15,"['animation', 'family', 'fantasy', 'scifi', 'action', 'european']",5,5.4,1214,54.603,4.9
+ts38734,2016,TV-MA,45,"['crime', 'drama', 'european']",3,7.4,30373,16.213,7.1
+ts53099,2016,TV-MA,59,"['drama', 'crime', 'european']",3,7.6,10371,15.878,7.6
+ts53664,2015,TV-MA,40,"['war', 'thriller', 'action', 'drama']",3,8.3,25239,22.242,7.5
+ts42022,2016,TV-MA,54,"['crime', 'drama', 'action', 'thriller']",5,8.2,3799,140.468,8.3
+ts38415,2016,TV-MA,46,"['action', 'drama', 'history']",3,7.1,20706,33.222,6.8
+ts43209,2015,TV-14,45,"['documentation', 'history', 'european']",2,7.6,1583,3.19,8
+ts42169,2016,TV-14,22,"['drama', 'animation', 'fantasy', 'scifi', 'thriller']",1,8.5,42699,21.821,8.7
+ts41289,2016,TV-14,25,"['drama', 'comedy', 'european']",2,8.1,5468,4.912,7.4
+ts38511,2016,TV-MA,32,"['drama', 'comedy', 'romance']",3,7.7,41362,23.492,7.3
+ts21986,2015,TV-G,43,"['scifi', 'comedy', 'drama', 'fantasy']",7,7.2,10392,41.602,7.7
+ts41149,2016,TV-MA,30,"['comedy', 'drama', 'western']",5,7.4,37890,28.83,7.5
+ts35775,2015,TV-MA,30,['comedy'],2,7.4,23674,16.899,6.4
+ts41975,2016,TV-14,41,"['war', 'drama', 'action']",3,7.5,35547,47.07,7.1
+ts41490,2016,TV-MA,42,"['action', 'drama', 'crime', 'thriller']",3,7.6,7577,6.231,7.2
+ts36177,2015,TV-MA,52,"['scifi', 'drama', 'horror', 'thriller']",3,7.3,17240,53.857,6.8
+ts37464,2015,TV-MA,45,"['war', 'thriller', 'drama']",3,7.7,8839,12.891,7.4
+ts37971,2015,TV-MA,32,"['drama', 'comedy']",3,8.3,72341,21.734,7.6
+ts21885,2015,TV-14,30,"['comedy', 'drama']",4,7.6,70242,20.333,7.2
+ts38783,2016,TV-MA,50,"['war', 'thriller']",3,7.4,7831,17.549,6.6
+ts36983,2016,TV-Y7,27,"['comedy', 'family']",5,6.7,27148,33.47,7.6
+ts41963,2016,TV-MA,30,"['drama', 'comedy']",3,6.9,13569,32.563,6.2
+ts52838,2016,TV-MA,45,"['scifi', 'action', 'drama', 'thriller']",4,7.3,25077,37.982,7.3
+ts38204,2015,TV-14,62,"['crime', 'documentation']",2,8.6,93456,10.955,7.9
+ts36046,2015,TV-G,24,"['comedy', 'family', 'drama']",5,5.3,3174,36.236,7.3
+ts36545,2015,TV-14,43,"['drama', 'thriller', 'crime']",3,6.6,60305,33.415,6.5
+ts36856,2015,TV-MA,28,"['comedy', 'animation', 'drama']",5,8,36050,34.434,7.3
+ts35362,2015,TV-MA,50,"['drama', 'thriller', 'action', 'comedy', 'european']",4,8.2,21388,137.792,8
+ts35354,2015,TV-14,43,"['drama', 'thriller', 'scifi']",3,6.6,24479,60.53,6.6
+ts38758,2016,TV-MA,24,"['action', 'animation', 'drama', 'fantasy', 'thriller', 'horror', 'scifi']",2,7.6,6121,27.887,8.2
+ts41913,2016,TV-14,18,"['scifi', 'fantasy', 'thriller', 'drama']",3,7.5,13625,13.548,7.2
+ts42655,2016,TV-14,45,"['drama', 'action', 'crime']",3,7.6,5693,9.545,7.2
+ts3844,2015,TV-14,43,"['drama', 'crime', 'thriller', 'european']",2,7.1,12112,11.944,6.8
+ts53287,2016,TV-14,48,"['drama', 'history', 'war', 'documentation']",3,7,7539,25.738,6.9
+ts42156,2016,TV-PG,24,"['drama', 'romance']",6,6.8,3205,18.683,7.1
+ts41906,2016,TV-14,10,"['scifi', 'comedy', 'animation', 'fantasy']",3,8.4,6649,33.948,8.5
+ts38116,2015,TV-MA,24,"['scifi', 'war', 'action', 'drama', 'animation']",2,7.9,1623,7.838,7
+ts35256,2015,TV-MA,50,['documentation'],7,8.5,15176,16.397,7.9
+ts53249,2016,TV-Y7,22,"['action', 'scifi', 'fantasy', 'animation', 'comedy', 'drama', 'family']",3,8.4,16509,35.879,8.5
+ts42043,2016,TV-PG,25,"['drama', 'animation', 'comedy', 'romance']",2,8.4,2586,19.401,8
+ts35577,2015,TV-14,23,"['scifi', 'animation', 'action']",1,7,1911,23.148,7.3
+ts52830,2016,TV-14,92,"['comedy', 'drama']",1,7.6,36359,20.316,7.6
+ts38731,2016,TV-14,51,"['war', 'drama', 'history', 'european']",2,7.1,3658,14.262,6.9
+ts42127,2016,TV-MA,27,['comedy'],3,7.1,2648,7.115,7.3
+ts41948,2016,TV-MA,48,"['documentation', 'music']",4,8.4,5772,5.002,7.8
+ts38809,2016,TV-MA,62,"['drama', 'music']",2,8.2,22304,8.755,7.4
+ts79799,2015,TV-Y7,22,"['animation', 'action', 'scifi', 'family', 'comedy', 'drama', 'fantasy']",6,8.2,6161,58.201,8.2
+ts38568,2016,TV-MA,32,"['drama', 'romance', 'comedy']",2,7.2,11264,13.564,6.9
+ts37944,2015,TV-MA,27,"['comedy', 'european']",2,7.7,3461,9.908,7.6
+ts42137,2016,TV-Y7,24,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family', 'fantasy']",8,8.1,8706,38.016,7.4
+ts35987,2015,TV-Y7,21,"['scifi', 'animation', 'action', 'comedy']",5,6,1048,20.971,7.7
+ts38770,2016,TV-MA,30,"['comedy', 'drama']",2,7.3,3655,6.874,7.4
+ts42038,2016,TV-14,47,"['comedy', 'drama', 'romance', 'thriller']",1,7.3,5101,7.804,6.2
+ts42119,2016,TV-MA,42,['drama'],5,7.3,5158,16.824,7.4
+ts76079,2016,TV-Y7,7,"['comedy', 'animation', 'family', 'european']",3,7.1,579,68.219,8.3
+ts41995,2016,TV-14,52,['reality'],2,6.9,2125,6.212,6.1
+ts78325,2015,TV-14,122,"['documentation', 'music']",1,8,2354,5.024,7.3
+ts11670,2015,TV-Y7,23,"['family', 'animation', 'comedy', 'fantasy', 'western', 'action']",6,6.6,1696,14.724,6.9
+ts42090,2016,TV-MA,55,"['documentation', 'sport']",5,8.4,6789,16.641,7.3
+ts86021,2015,TV-G,3,"['animation', 'comedy', 'family', 'european']",3,8.4,346,8.324,8
+ts42257,2016,TV-MA,71,"['crime', 'scifi', 'thriller', 'drama', 'fantasy']",2,8.6,6338,8.776,8.1
+ts35406,2015,TV-14,25,"['scifi', 'drama', 'thriller']",2,6,9059,26.43,5.7
+ts128895,2016,TV-14,28,['drama'],2,8.4,4109,8.013,7.6
+ts37660,2015,TV-14,95,"['comedy', 'drama', 'family', 'romance']",1,9.2,6557,15.317,8.7
+ts41258,2016,TV-PG,61,"['comedy', 'drama', 'romance']",1,7.5,3663,23.344,7.2
+ts81483,2016,TV-Y,5,"['animation', 'comedy', 'family']",2,7,127,2.878,9.5
+ts37896,2015,TV-14,43,"['documentation', 'history', 'european']",1,6.2,367,2.731,5.8
+ts21979,2015,TV-MA,58,"['drama', 'comedy', 'crime', 'european']",1,7.7,3635,9.159,7
+ts36547,2015,TV-MA,44,"['comedy', 'drama']",4,8.2,5514,31.739,8.4
+ts84398,2016,TV-MA,25,"['comedy', 'drama', 'romance']",4,8.2,6461,8.807,7.8
+ts77654,2015,TV-Y,23,['animation'],2,6.8,82,4.256,9.3
+ts39014,2016,TV-14,24,"['comedy', 'drama', 'action', 'scifi', 'animation']",2,7.2,1265,5.73,6.6
+ts38764,2016,TV-MA,46,"['drama', 'european']",2,6.9,5083,7.729,6.6
+ts54110,2015,TV-Y,11,"['animation', 'family', 'comedy', 'european']",2,8.7,891,5.367,7.6
+ts54156,2016,TV-14,60,['documentation'],1,8.2,1723,2.151,8.5
+ts38230,2015,TV-MA,51,"['drama', 'thriller', 'crime']",2,7.4,2784,6.495,7.8
+ts51368,2016,TV-Y7,23,"['action', 'animation', 'comedy', 'family', 'fantasy']",3,6.7,730,18.291,6.1
+ts66540,2016,TV-MA,23,"['drama', 'comedy', 'european']",2,7.3,880,1.537,6.8
+ts75829,2016,TV-Y7,17,"['animation', 'action', 'fantasy', 'scifi']",2,5.5,170,1.4,7.3
+ts35360,2015,TV-Y,21,"['action', 'comedy', 'family', 'scifi', 'animation']",4,4.5,614,9.398,6.9
+ts42089,2016,TV-14,30,"['comedy', 'drama', 'family', 'romance']",2,6.1,7183,8.147,6.4
+ts42075,2016,TV-MA,97,['drama'],2,6.7,1152,10.782,5.4
+ts43272,2015,TV-14,29,"['reality', 'drama']",1,8.1,1624,4.264,8
+ts41883,2016,TV-14,65,"['war', 'drama', 'romance', 'thriller']",1,7.9,5615,74.751,7.5
+ts36630,2015,TV-Y7,23,"['action', 'comedy', 'family', 'animation']",5,6.8,458,18.042,7.1
+ts41260,2016,TV-14,63,"['comedy', 'drama', 'romance']",2,8.3,2127,15.225,7.3
+ts39017,2015,TV-Y7,23,"['comedy', 'family', 'animation']",4,5.8,712,43.241,7.7
+ts38757,2016,TV-Y7,21,"['animation', 'scifi', 'action', 'comedy', 'family']",2,5.9,325,11.297,6.5
+ts35596,2015,TV-G,23,"['comedy', 'family', 'sport']",2,5,2114,11.756,7.9
+ts144323,2015,TV-MA,35,"['reality', 'documentation', 'comedy']",1,8.1,12,5.531,7.6
+ts42218,2016,TV-MA,47,"['action', 'drama', 'romance', 'crime']",4,6.5,546,285.361,7.5
+ts38512,2016,TV-PG,53,['documentation'],1,7.6,43,4.669,7.5
+ts41294,2015,TV-MA,42,"['action', 'drama']",2,6.8,632,4.877,5.9
+ts43501,2015,TV-PG,51,"['documentation', 'history', 'european']",2,7.8,1031,2.774,7.4
+ts42628,2016,TV-MA,31,['comedy'],1,5.3,835,3.998,5.1
+ts36740,2015,TV-G,24,['family'],6,6.1,985,14.028,8
+ts53106,2016,TV-MA,49,"['drama', 'history']",1,7.4,1544,6.903,6.9
+ts41253,2016,TV-14,45,"['drama', 'romance']",1,8,2322,5.592,6
+ts38717,2016,TV-14,48,"['comedy', 'drama', 'romance']",2,7.7,3088,12.751,7.1
+ts58068,2016,TV-MA,48,"['crime', 'documentation']",5,7.1,2747,3.8,7.4
+ts38805,2016,TV-Y,15,"['animation', 'family', 'fantasy', 'comedy']",3,7.6,522,6.351,6.6
+ts38761,2016,TV-MA,69,"['drama', 'fantasy', 'romance', 'comedy']",1,7.9,1769,22.672,8.2
+ts56748,2016,TV-14,22,"['drama', 'thriller', 'reality']",3,7.3,2012,12.18,8
+ts43230,2015,TV-Y7,22,"['action', 'animation', 'family', 'scifi']",3,8.1,645,11.108,8.4
+ts56032,2016,TV-MA,45,"['action', 'drama']",1,8.3,642,21.243,7.7
+ts55559,2016,TV-Y,26,"['animation', 'comedy', 'family']",3,8.4,870,13.727,8.2
+ts75324,2016,TV-MA,41,['history'],1,8.1,575,25.176,7.4
+ts54100,2016,TV-Y7,23,"['action', 'animation', 'comedy', 'family', 'fantasy', 'european']",2,6.6,715,4.724,8.1
+ts35463,2015,TV-PG,22,['comedy'],2,3.1,1041,14.932,6.3
+ts55966,2016,TV-Y,23,['animation'],2,6.5,49,9.137,7.7
+ts86831,2015,TV-MA,30,"['comedy', 'drama']",3,7.7,370,5.028,7
+ts53065,2016,TV-14,31,"['scifi', 'drama', 'fantasy']",1,6.9,564,4.321,7.2
+ts54010,2016,TV-14,25,"['comedy', 'drama', 'fantasy', 'romance']",1,6.3,261,10.581,7.6
+ts38772,2016,TV-MA,70,"['drama', 'comedy']",1,8.2,355,4.472,7.8
+ts83224,2016,TV-MA,27,['comedy'],2,7.6,890,3.812,8.3
+ts57705,2016,TV-MA,48,"['drama', 'crime', 'action']",3,7.4,64,10.121,7.6
+ts74929,2015,TV-Y,24,"['comedy', 'drama', 'family', 'fantasy', 'romance', 'animation', 'european']",2,5.7,182,10.146,8.8
+ts43258,2015,TV-PG,43,['drama'],1,8.8,1295,4.367,8.8
+ts55365,2016,TV-PG,25,"['thriller', 'fantasy', 'horror', 'animation', 'comedy', 'drama', 'family']",7,8.4,71,13.649,10
+ts42011,2016,TV-PG,42,['reality'],1,7.2,166,1.321,8
+ts55223,2016,TV-PG,49,['documentation'],1,6.2,344,2.022,6
+ts41899,2016,TV-MA,16,"['drama', 'horror', 'thriller']",1,7.1,423,5.984,8.4
+ts82327,2015,TV-Y,5,"['scifi', 'comedy', 'family', 'animation']",3,6.8,95,1.92,8
+ts35505,2015,TV-MA,47,"['comedy', 'drama', 'european']",1,7.3,493,3.098,6.3
+ts56221,2016,TV-Y,11,"['animation', 'comedy', 'family', 'fantasy']",4,6.5,77,6.616,10
+ts43341,2015,TV-14,69,"['drama', 'documentation', 'comedy']",1,6.3,7,4.985,7.8
+ts38769,2016,TV-MA,57,['comedy'],2,6.1,2051,19.427,5.1
+ts42155,2016,TV-Y7,21,"['comedy', 'family', 'fantasy', 'scifi', 'animation']",4,5.9,603,7.217,7
+ts52981,2016,TV-PG,48,['reality'],1,6.9,1665,4.026,7
+ts52825,2016,TV-14,45,"['drama', 'history', 'romance']",1,7.9,767,8.08,7.2
+ts42260,2016,TV-MA,60,['documentation'],1,7.3,2471,4.073,6.5
+ts43119,2015,TV-14,31,['comedy'],2,6.4,2801,6.72,6
+ts127430,2016,TV-Y,21,"['animation', 'family']",1,8.8,167,0.878,9
+ts52950,2016,TV-14,36,"['comedy', 'drama']",1,7.7,98,4.001,8
+ts78442,2016,TV-MA,29,['documentation'],2,6.8,583,2.274,7.8
+ts42347,2016,TV-Y,20,"['animation', 'family']",5,5.7,349,7.049,8.3
+ts51367,2016,TV-MA,30,"['action', 'crime', 'drama', 'comedy']",2,7,2285,7.035,6.2
+ts21876,2015,TV-PG,45,"['drama', 'romance']",1,6.6,185,9.643,6.5
+ts55556,2015,TV-MA,46,"['family', 'drama', 'war']",1,8.4,314,7.483,9
+ts42432,2016,TV-14,18,['drama'],1,6.4,25,3.956,6
+ts38813,2016,TV-Y7,13,"['action', 'animation', 'comedy', 'family']",4,5.1,47,3.816,7.3
+ts42371,2016,TV-PG,22,"['animation', 'comedy', 'family', 'fantasy', 'action']",1,6.2,312,1.481,5.6
+ts53346,2016,TV-PG,28,['reality'],1,3.8,501,1.968,5.8
+ts86089,2016,TV-14,10,"['drama', 'thriller', 'horror']",1,5,56,2.682,4
+ts83450,2016,TV-14,84,"['drama', 'crime']",1,7,218,2.87,7
+ts53017,2016,TV-14,45,"['drama', 'romance']",1,6.8,74,3.951,9.7
+ts54117,2016,TV-Y,24,"['animation', 'family', 'fantasy']",3,6.2,58,2.504,8
+ts53543,2016,TV-14,18,"['drama', 'comedy', 'fantasy', 'music']",1,6.3,210,10.889,8
+ts41485,2016,TV-MA,61,"['scifi', 'action', 'crime', 'drama', 'thriller']",1,8.4,4269,3.44,7.8
+ts84542,2016,TV-PG,13,"['drama', 'comedy']",1,4.1,21,2.159,10
+ts36634,2015,TV-PG,45,"['comedy', 'drama']",1,6.4,138,16.282,7.5
+ts36741,2015,TV-14,60,"['crime', 'drama']",1,6.7,195,2.355,7.3
+ts35963,2015,TV-14,45,"['drama', 'romance']",1,7.7,28,0.992,7.5
+ts53513,2016,TV-14,44,"['scifi', 'drama']",1,8,106,4.257,8.8
+ts38703,2016,TV-PG,37,"['comedy', 'drama']",1,6.9,103,6.772,5.4
+ts83449,2016,TV-14,87,['family'],1,5.5,325,4.504,9
+ts53864,2017,TV-MA,60,"['crime', 'thriller', 'drama']",4,8.5,278223,290.316,8.2
+ts77795,2018,TV-MA,25,['comedy'],3,8.4,28718,27.308,8.2
+ts56683,2017,TV-MA,45,"['crime', 'thriller', 'drama']",4,7.9,117055,65.193,7.5
+ts55668,2017,TV-MA,56,"['scifi', 'crime', 'drama', 'thriller']",3,8.7,354443,152.46,8.4
+ts53023,2017,TV-14,42,"['thriller', 'drama', 'romance', 'crime']",6,6.7,139154,369.341,8.5
+ts81064,2018,TV-14,42,"['scifi', 'drama', 'fantasy', 'horror']",4,7.3,28877,270.461,8.5
+ts42405,2017,TV-MA,53,"['crime', 'drama', 'thriller']",2,8.6,261429,45.108,8
+ts83970,2018,TV-14,42,"['drama', 'sport']",4,7.6,9704,65.499,8.2
+ts81294,2018,TV-14,42,"['scifi', 'drama', 'thriller']",3,7.1,50145,87.315,7.7
+ts78305,2018,TV-MA,48,"['crime', 'drama', 'thriller']",5,7.4,73062,531.821,8.1
+ts78801,2018,TV-14,31,"['action', 'comedy', 'drama', 'sport']",5,8.6,163858,385.985,8.2
+ts79813,2018,TV-MA,47,"['thriller', 'crime', 'drama', 'romance']",3,7.7,225949,80.568,8.2
+ts77398,2018,TV-PG,49,"['scifi', 'action', 'drama', 'thriller', 'family']",3,7.3,96868,52.535,7.6
+ts57120,2018,TV-14,42,"['comedy', 'drama', 'crime']",4,7.7,49867,51.087,8.1
+ts81884,2018,TV-MA,60,"['war', 'crime', 'drama', 'thriller', 'european']",2,8.1,114446,26.109,7.9
+ts75151,2017,TV-MA,65,"['western', 'documentation', 'action', 'drama', 'crime']",1,7.6,27,32.203,7.8
+ts54102,2018,TV-MA,52,"['scifi', 'thriller', 'action', 'drama']",2,7.9,162018,59.428,7.8
+ts75097,2018,TV-MA,39,"['drama', 'scifi', 'comedy']",1,7.7,74877,18.19,7.4
+ts84785,2018,TV-MA,44,"['crime', 'drama']",2,7.3,20817,14.581,7.3
+ts42477,2017,TV-MA,49,"['crime', 'thriller', 'drama', 'european']",4,8.4,23256,25.424,7.9
+ts81208,2018,TV-14,42,"['scifi', 'drama', 'fantasy']",4,4.5,16091,126.643,7.4
+ts58433,2018,TV-MA,58,"['drama', 'scifi', 'horror', 'thriller']",1,8.6,226817,36.217,8.1
+ts57850,2017,TV-MA,43,"['scifi', 'comedy', 'thriller', 'action', 'crime', 'fantasy']",2,8.1,37747,12.512,7.5
+ts53663,2017,TV-MA,22,"['comedy', 'drama']",6,7.8,14892,14.338,7.8
+ts79229,2018,TV-MA,67,"['crime', 'documentation']",1,8.1,29298,13.095,7.9
+ts77955,2018,TV-14,52,['documentation'],5,8.2,4420,7.234,7.5
+ts75879,2017,TV-MA,27,"['animation', 'comedy', 'romance']",6,7.9,74660,68.109,7.8
+ts57465,2017,TV-14,42,['drama'],5,7.2,21136,62.172,8.2
+ts54054,2017,TV-14,43,"['drama', 'comedy', 'crime']",2,7.8,13238,19.835,7.3
+ts55982,2017,TV-G,46,"['drama', 'family']",3,8.7,51001,147.762,8.8
+ts58133,2017,TV-14,43,"['documentation', 'crime', 'thriller', 'drama']",2,8.1,57459,39.681,7.7
+ts53545,2017,TV-MA,29,"['comedy', 'horror']",3,7.9,64467,26.17,7.5
+ts84328,2018,TV-G,23,"['scifi', 'family', 'fantasy']",2,6.7,1914,15.122,7.6
+ts53198,2017,TV-PG,29,"['comedy', 'drama']",4,8.2,15669,27.347,8
+ts76243,2017,TV-MA,21,"['crime', 'comedy', 'drama', 'romance', 'thriller']",2,8.1,177868,60.765,8.2
+ts58367,2018,TV-MA,45,"['drama', 'thriller', 'crime', 'european']",1,7.2,41822,18.515,6.9
+ts55720,2017,TV-MA,34,"['drama', 'comedy', 'sport', 'reality']",4,8,44751,18.959,7.4
+ts77852,2018,TV-G,21,"['comedy', 'romance', 'animation', 'family', 'fantasy']",8,5.8,798,14.06,8.6
+ts78430,2018,TV-MA,57,"['drama', 'thriller', 'crime']",1,6.7,17304,15.543,6.4
+ts56261,2017,TV-MA,26,"['scifi', 'drama', 'fantasy', 'horror', 'animation', 'action']",4,8.3,61114,97.7,8.3
+ts82849,2018,TV-MA,26,"['drama', 'comedy']",3,8.2,38232,16.555,7.6
+ts74809,2017,TV-14,44,"['action', 'drama', 'history']",2,6.7,19809,30.484,7
+ts56969,2017,TV-14,31,"['comedy', 'drama']",4,8.3,81643,40.8,8.3
+ts58155,2017,TV-MA,44,"['drama', 'thriller', 'crime']",1,7.7,31577,15.686,7.4
+ts76458,2018,TV-MA,46,"['drama', 'thriller', 'crime']",3,7.3,8762,16.444,6.8
+ts39015,2017,TV-PG,47,"['action', 'family', 'comedy', 'drama']",3,7.8,59239,33.836,7.3
+ts74816,2017,TV-MA,33,"['comedy', 'drama', 'crime']",2,8.1,29972,20.845,7.6
+ts52821,2018,TV-PG,50,"['animation', 'action', 'drama', 'family', 'fantasy']",1,7.2,6043,6.412,6.9
+ts77563,2017,TV-14,86,"['scifi', 'comedy', 'thriller', 'drama', 'horror']",2,8.2,3605,4.991,7.9
+ts80856,2018,TV-14,57,"['scifi', 'thriller', 'drama', 'horror', 'fantasy']",4,7.4,90327,124.52,8.3
+ts76869,2018,TV-14,25,"['drama', 'animation', 'scifi', 'fantasy', 'romance']",1,8.4,19940,56.177,8.7
+ts82526,2018,TV-MA,56,"['drama', 'crime']",3,8.4,80902,58.895,7.9
+ts72247,2018,TV-14,29,"['scifi', 'comedy', 'fantasy', 'animation', 'action']",4,7.2,58639,74.537,7.6
+ts82189,2018,TV-MA,24,"['action', 'animation', 'drama', 'sport']",3,6.7,5706,309.314,8.1
+ts74823,2017,TV-MA,27,['comedy'],1,6.9,8502,17.018,6.6
+ts77197,2018,TV-MA,62,"['crime', 'drama']",1,7.7,15323,13.897,7.4
+ts76865,2018,TV-MA,25,"['scifi', 'animation', 'action', 'drama', 'fantasy', 'horror']",1,7.6,18575,68.38,7.9
+ts312241,2017,TV-MA,6,"['scifi', 'horror']",1,6.4,870,8.612,8
+ts121489,2017,TV-14,22,"['drama', 'horror', 'thriller']",4,5.5,1841,18.063,5.5
+ts55781,2017,TV-MA,55,"['drama', 'thriller', 'crime', 'horror', 'european']",2,7.4,10705,13.547,7
+ts87369,2018,TV-14,45,['documentation'],4,7.8,2732,21.89,8.1
+ts78080,2018,TV-14,24,"['drama', 'comedy']",1,7.5,18023,24.964,7.6
+ts58307,2017,TV-14,46,"['drama', 'crime']",2,7.5,9593,11.787,7.5
+ts55645,2017,TV-MA,65,"['war', 'documentation', 'history']",1,8.3,4600,6.841,7.8
+ts78558,2018,TV-14,47,['reality'],6,8.5,18147,14.475,7.8
+ts79926,2018,TV-14,52,['comedy'],1,8.4,3545,4.73,8.3
+ts56648,2017,TV-MA,56,"['crime', 'action', 'drama', 'documentation']",1,7.6,14,8.375,7.6
+ts42294,2017,TV-MA,58,"['drama', 'thriller']",4,7.5,282373,100.866,7.8
+ts84010,2018,TV-MA,56,"['drama', 'thriller']",1,7.2,4772,8.594,7.2
+ts80035,2018,TV-MA,44,"['scifi', 'thriller', 'drama', 'horror']",1,5.8,13103,17.781,5.6
+ts57055,2018,TV-14,42,"['scifi', 'action', 'drama']",4,6.1,24646,67.65,7.2
+ts56480,2018,TV-MA,58,"['war', 'fantasy', 'romance', 'action']",1,3.9,13677,19.82,6.4
+ts82597,2018,TV-Y7,27,"['scifi', 'animation', 'action', 'drama', 'family', 'fantasy', 'thriller']",3,8.4,21635,36.019,8.4
+ts55962,2017,TV-MA,29,"['comedy', 'drama']",4,6.1,24863,20.722,6.4
+ts75164,2017,TV-Y,23,"['comedy', 'family', 'music', 'animation']",3,5.7,110,4.772,7.6
+ts78452,2018,TV-MA,58,"['drama', 'animation', 'fantasy', 'thriller']",1,6.4,6421,18.022,6.6
+ts75263,2017,TV-14,43,"['crime', 'drama', 'documentation', 'fantasy']",1,7,4181,3.342,6.2
+ts85568,2018,TV-MA,29,"['crime', 'thriller', 'drama', 'documentation', 'comedy', 'romance']",1,7.1,8536,16.984,7
+ts80705,2018,TV-MA,48,"['crime', 'documentation']",1,7.5,27516,10.581,7.5
+ts81344,2018,TV-MA,21,['documentation'],3,8,8831,12.859,7.7
+ts82228,2018,TV-14,23,"['action', 'fantasy', 'animation', 'comedy']",2,7.5,2206,25.894,8.4
+ts81331,2018,TV-Y7,24,"['scifi', 'action', 'family', 'animation', 'fantasy', 'comedy', 'drama']",5,7.8,14935,22.339,8.8
+ts55798,2017,TV-MA,64,"['drama', 'thriller', 'crime', 'romance', 'scifi', 'comedy']",2,8.5,7645,18.993,8.6
+ts78356,2018,TV-MA,43,"['drama', 'scifi', 'thriller']",3,7.3,616,70.563,7.4
+ts86169,2018,TV-MA,47,"['documentation', 'crime']",1,7.3,5883,7.434,7
+ts84280,2018,TV-14,25,"['animation', 'comedy', 'thriller', 'fantasy', 'romance', 'drama']",1,8.1,10400,60.496,8.8
+ts77957,2018,TV-14,63,"['crime', 'documentation']",2,8.1,9099,18.126,7.2
+ts84904,2018,TV-MA,42,"['scifi', 'fantasy', 'crime', 'drama']",1,6.8,7727,13.616,6.8
+ts83999,2018,TV-Y7,25,"['scifi', 'family', 'fantasy', 'animation', 'comedy', 'drama']",2,8.5,10162,32.606,8.3
+ts57303,2017,TV-MA,30,"['comedy', 'drama']",2,6.9,20242,11.935,6.6
+ts58025,2017,TV-Y,24,"['animation', 'comedy', 'family', 'fantasy']",1,6.4,642,18.893,8.1
+ts82302,2018,TV-MA,46,"['drama', 'comedy', 'thriller']",2,6.5,27275,96.678,7.9
+ts85895,2018,TV-MA,52,"['scifi', 'drama']",2,7.3,8711,20.096,7.4
+ts56511,2017,TV-MA,50,"['drama', 'european']",5,7.6,13855,65.44,7.9
+ts57822,2017,TV-MA,24,"['comedy', 'crime']",2,6.8,7173,10.499,7.1
+ts79546,2018,TV-MA,24,"['action', 'animation', 'drama', 'scifi', 'sport']",2,7.8,3144,28.077,8
+ts84533,2018,TV-Y7,11,"['action', 'animation', 'scifi']",3,6.5,350,10.637,7.4
+ts83455,2018,TV-MA,57,['drama'],1,7,5225,13.135,6.4
+ts75772,2017,TV-MA,46,"['reality', 'comedy', 'documentation', 'european']",5,7.6,5388,6.26,7.4
+ts77518,2018,TV-PG,24,"['comedy', 'animation', 'romance']",3,7.7,2030,42.087,8.3
+ts79234,2018,TV-G,23,"['action', 'comedy', 'animation', 'family', 'fantasy']",4,6.4,3595,47.064,7
+ts80720,2018,TV-PG,15,"['action', 'animation', 'comedy', 'drama', 'fantasy', 'romance']",3,8.5,297,93.943,8.8
+ts57439,2017,TV-MA,43,"['western', 'drama', 'crime']",1,7.6,8111,10.571,7
+ts75157,2017,TV-Y,25,"['animation', 'family', 'fantasy']",3,6.2,812,17.774,6.3
+ts58152,2018,TV-MA,57,"['drama', 'history']",1,7.4,4292,15.73,7
+ts84779,2018,TV-MA,25,"['documentation', 'horror', 'reality']",3,4.6,3150,14.069,7
+ts56481,2017,TV-PG,21,['comedy'],2,7,6810,8.409,6.5
+ts82560,2018,TV-MA,41,"['action', 'documentation']",1,7.5,7158,11.337,6.5
+ts55231,2017,TV-14,45,['documentation'],2,8.4,5306,14.406,8
+ts88783,2018,TV-Y7,20,"['scifi', 'animation', 'action', 'comedy', 'family', 'fantasy']",4,5.1,220,26.814,6.8
+ts57814,2017,TV-14,24,"['action', 'animation', 'drama', 'thriller']",2,7.2,8547,98.728,8.3
+ts113109,2017,TV-Y,5,['animation'],5,8.6,198,7.052,9.5
+ts85138,2018,TV-PG,50,['documentation'],2,8,1269,2.44,8.3
+ts57424,2017,TV-MA,52,"['crime', 'thriller', 'drama', 'european']",1,7.2,10137,28.763,7.1
+ts77474,2018,TV-MA,76,"['drama', 'action', 'history', 'romance', 'war']",1,8.7,6855,26.485,8.4
+ts57964,2017,TV-Y7,16,"['comedy', 'family', 'fantasy', 'horror', 'animation']",2,5.5,694,24.098,7.4
+ts78298,2018,TV-14,79,"['drama', 'family']",1,9.2,5481,14.997,8.9
+ts83251,2018,TV-14,24,"['comedy', 'reality']",3,7.1,3316,11.61,6.8
+ts55194,2017,TV-14,30,['comedy'],3,3.5,7233,9.87,3.6
+ts84335,2018,TV-MA,57,"['drama', 'crime', 'thriller']",1,6.8,4173,8.68,6.5
+ts53936,2017,TV-14,51,"['drama', 'crime']",1,8.4,17727,10.828,8.2
+ts83763,2018,TV-MA,59,"['crime', 'thriller']",1,7.4,4790,13.209,6.9
+ts82892,2018,TV-MA,46,"['crime', 'documentation']",2,7.4,3937,6.502,7.2
+ts79422,2018,TV-PG,33,"['reality', 'comedy']",6,7.4,4682,9.333,7.5
+ts80523,2018,TV-14,16,"['animation', 'music', 'romance', 'comedy', 'drama']",4,8,6005,11.023,7.2
+ts83561,2018,TV-MA,28,"['scifi', 'action', 'drama', 'fantasy', 'thriller', 'music']",1,5.4,3087,13.668,6.1
+ts78382,2018,TV-14,29,"['comedy', 'drama']",4,7.9,15642,45.081,8.5
+ts86296,2018,TV-MA,41,"['documentation', 'sport']",2,8.1,7943,3.481,8
+ts41527,2017,TV-MA,59,"['drama', 'thriller']",1,6.8,16133,13.117,6.3
+ts78507,2018,TV-Y7,25,"['comedy', 'drama']",4,7.4,4687,42.726,8.6
+ts57464,2018,TV-14,42,"['drama', 'comedy']",1,6.4,3855,8.064,6.5
+ts228255,2018,TV-Y,12,"['animation', 'family']",2,4.8,36,2.605,7.2
+ts58175,2017,TV-MA,32,['comedy'],2,6.8,4624,7.916,6.5
+ts77525,2017,TV-14,45,"['documentation', 'comedy', 'history']",3,8,5545,8.534,7.6
+ts58225,2017,TV-MA,30,['comedy'],3,6.6,1225,5.457,5.8
+ts84243,2018,TV-MA,45,['drama'],3,6.8,10990,49.167,8
+ts78231,2018,TV-MA,45,['crime'],1,7.8,7651,17.234,7.1
+ts56594,2017,TV-MA,27,['comedy'],2,6.8,9980,11.209,5.8
+ts57080,2017,TV-Y7,23,"['action', 'animation', 'comedy', 'drama', 'family', 'western', 'documentation']",11,6.6,993,10.563,8.2
+ts57082,2017,TV-MA,29,"['comedy', 'european']",2,7.4,10981,7.349,6.9
+ts53101,2017,TV-14,63,"['crime', 'thriller', 'action']",4,7.5,1949,10.152,6.9
+ts81885,2018,TV-PG,49,"['comedy', 'drama', 'crime', 'documentation']",1,6.9,5620,6.913,6.4
+ts77783,2018,TV-14,24,"['scifi', 'action', 'fantasy', 'war', 'animation']",1,7.1,893,19.328,8.6
+ts79020,2018,TV-14,52,"['documentation', 'war', 'history']",1,8,4241,3.807,7.7
+ts77799,2018,TV-MA,56,['documentation'],2,7.2,3675,7.357,7.4
+ts75749,2017,TV-14,56,"['comedy', 'drama', 'romance']",1,8.2,4168,11.127,8.6
+ts86945,2018,TV-Y,20,"['fantasy', 'animation', 'comedy', 'family']",3,6.1,163,7.629,5.5
+ts84056,2018,TV-MA,76,['drama'],2,7.4,4555,43.164,7.5
+ts89069,2018,TV-Y,11,['animation'],4,7.7,106,13.724,7.6
+ts76417,2017,TV-MA,52,"['drama', 'horror', 'thriller', 'european']",1,8,10161,10.905,7.8
+ts86814,2018,TV-MA,49,"['crime', 'documentation']",1,6.8,3045,2.988,7
+ts85837,2018,TV-MA,68,['drama'],1,8.6,2835,18.684,8.3
+ts76313,2017,TV-14,36,"['drama', 'comedy']",1,7.5,1729,2.17,8.6
+ts75355,2017,TV-MA,48,"['crime', 'action', 'european']",3,7.9,14346,41.292,7.5
+ts76486,2017,TV-14,73,"['drama', 'romance']",1,8.2,1872,9.343,8.4
+ts82372,2018,TV-Y7,24,"['animation', 'comedy', 'family', 'action']",4,6.7,879,11.325,8.8
+ts79045,2018,TV-MA,51,['documentation'],2,7.8,3505,7.038,7.4
+ts81757,2018,TV-MA,31,"['drama', 'comedy']",3,7.6,7722,39.666,7.8
+ts55491,2017,TV-14,42,"['crime', 'drama', 'scifi', 'thriller']",1,6.2,5746,15.625,6.6
+ts77600,2017,TV-MA,19,['comedy'],2,7.1,616,1.662,6.6
+ts80411,2018,TV-14,64,"['action', 'crime', 'drama', 'thriller']",1,7.7,1572,10.08,7.6
+ts78217,2018,TV-MA,48,['comedy'],2,6.6,442,9.95,7.4
+ts78299,2018,TV-Y,15,"['animation', 'family']",2,6.5,270,3.459,7.8
+ts75002,2017,TV-MA,49,"['drama', 'thriller', 'crime', 'history', 'war', 'documentation']",1,6.8,3999,10.958,6.5
+ts76753,2017,TV-MA,75,"['comedy', 'romance', 'fantasy', 'horror']",1,8,4535,52.042,8.3
+ts77755,2017,TV-Y7,24,"['action', 'scifi', 'thriller', 'drama']",2,6.1,862,3.907,7.3
+ts56201,2017,TV-Y7,11,"['action', 'fantasy', 'scifi', 'animation', 'comedy', 'family']",2,3.4,750,12.41,5.8
+ts88234,2017,TV-MA,22,['comedy'],3,8,2664,3.54,6.7
+ts53960,2017,TV-14,23,"['scifi', 'animation', 'fantasy']",2,6.4,391,14.353,6.7
+ts81414,2018,TV-14,45,"['comedy', 'family', 'drama', 'romance']",1,7.9,3921,50.167,8.6
+ts77014,2018,TV-MA,80,"['war', 'drama', 'action', 'thriller']",1,8.1,7426,27.741,7
+ts56993,2017,TV-MA,28,"['drama', 'comedy', 'crime', 'european']",1,6.8,1873,6.843,7.3
+ts81542,2018,TV-Y7,24,"['comedy', 'scifi', 'animation', 'drama', 'family']",2,7.1,4198,6.599,7.1
+ts83232,2018,TV-MA,51,"['crime', 'drama', 'thriller']",2,7,4312,12.247,6.8
+ts82268,2018,TV-MA,46,"['scifi', 'drama', 'fantasy', 'horror']",2,8,6,29.825,6.9
+ts87043,2018,TV-Y,12,"['scifi', 'animation', 'action', 'comedy', 'family']",2,6,100,6.511,10
+ts86164,2018,TV-14,24,"['scifi', 'animation', 'action', 'crime']",2,6.1,657,12.8,6.3
+ts9075,2018,TV-MA,29,['comedy'],1,7,1895,2.243,6.4
+ts83790,2018,TV-14,68,"['drama', 'fantasy', 'romance']",1,7.6,1889,62.12,8.3
+ts57811,2017,TV-14,24,"['action', 'scifi', 'animation', 'drama', 'fantasy']",1,6.6,2259,52.16,7.7
+ts85686,2018,TV-14,22,"['reality', 'documentation']",5,7.5,450,8.926,7.2
+ts83360,2018,TV-MA,66,"['crime', 'thriller', 'drama', 'horror', 'comedy']",1,8.1,1537,9.102,8.1
+ts95569,2018,TV-Y,22,"['family', 'fantasy', 'animation']",2,5.8,187,5.692,10
+ts78590,2018,TV-MA,47,"['drama', 'thriller', 'crime']",2,8,36077,9.788,7.4
+ts85170,2018,TV-MA,68,"['action', 'scifi', 'thriller', 'drama', 'romance']",1,7.8,5363,17.068,7.8
+ts90594,2018,TV-Y,22,"['comedy', 'family', 'animation']",5,6.7,525,34.003,8.1
+ts83502,2018,TV-MA,52,"['scifi', 'crime', 'drama']",1,6.4,1625,6.118,5.8
+ts85034,2018,TV-MA,25,['comedy'],6,8.2,7222,9.602,7.3
+ts83537,2018,TV-MA,46,"['thriller', 'crime', 'european']",2,6.4,1608,9.638,7
+ts79157,2018,TV-MA,25,"['scifi', 'action', 'drama', 'thriller', 'horror', 'animation', 'fantasy', 'crime']",2,7.1,4803,34.155,7.9
+ts81918,2018,TV-PG,51,['reality'],3,7,1508,13.058,7
+ts56718,2017,TV-MA,44,"['drama', 'action', 'history', 'crime']",3,7.8,17992,121.756,7.5
+ts80959,2018,TV-MA,50,"['action', 'thriller', 'crime', 'drama']",2,8.6,85088,11.75,8.1
+ts53693,2017,TV-Y7,27,"['scifi', 'fantasy', 'family', 'european']",4,7.2,2375,51.672,7.7
+ts75477,2017,TV-MA,43,"['documentation', 'crime']",2,7.5,5340,8.084,7.4
+ts131579,2018,TV-MA,47,"['drama', 'history', 'action', 'thriller', 'comedy', 'documentation']",1,6.8,2533,10.58,6.4
+ts85175,2018,TV-MA,44,"['drama', 'fantasy', 'horror', 'thriller', 'crime']",2,7.6,3979,67.928,8.5
+ts83071,2018,TV-MA,42,"['reality', 'documentation']",1,5.1,1119,10.365,5.2
+ts77545,2017,TV-MA,48,"['war', 'crime', 'documentation', 'thriller', 'comedy', 'drama']",3,7.3,1643,17.665,7.2
+ts83540,2018,TV-MA,27,"['comedy', 'crime', 'animation', 'action']",3,6.8,17779,39.351,7.6
+ts236347,2017,TV-MA,24,"['action', 'scifi', 'thriller', 'animation', 'drama', 'fantasy']",1,7.6,1131,2.695,9
+ts78206,2018,TV-MA,64,"['drama', 'comedy', 'reality']",3,8.3,2038,15.449,8.6
+ts84135,2018,TV-MA,53,"['crime', 'thriller', 'drama']",1,6.9,2641,21.358,7
+ts79026,2018,TV-MA,46,"['drama', 'scifi', 'horror', 'romance', 'thriller']",2,6.2,5784,17.989,6.1
+ts56045,2017,TV-MA,49,"['drama', 'history', 'european']",3,7.8,3274,33.647,7.5
+ts87194,2018,TV-MA,49,['reality'],2,7.3,1482,1.47,7.1
+ts68146,2017,TV-PG,43,"['documentation', 'fantasy', 'european']",1,7.8,811,3.292,7.4
+ts76603,2017,TV-14,28,"['drama', 'scifi', 'thriller', 'fantasy']",1,7.8,3596,10.639,7.3
+ts84930,2018,TV-14,28,"['comedy', 'romance']",3,7.2,5212,15.197,7.8
+ts78246,2018,TV-MA,47,"['scifi', 'thriller', 'drama']",1,6.2,3874,8.271,6.9
+ts81526,2018,TV-MA,54,['documentation'],1,8.3,3105,4.656,8.1
+ts55581,2017,TV-14,67,"['drama', 'romance', 'comedy', 'fantasy']",1,7.1,2501,15.138,7.3
+ts56933,2018,TV-PG,25,"['scifi', 'action', 'comedy', 'fantasy']",2,6.4,4308,25.571,7.2
+ts84645,2018,TV-MA,55,"['documentation', 'war']",1,8.2,1687,8.526,8.7
+ts74962,2017,TV-Y,21,"['comedy', 'family', 'fantasy', 'animation']",4,7.1,439,6.637,8.8
+ts79997,2018,TV-MA,70,"['drama', 'romance']",1,8.2,5654,16.637,8.1
+ts75676,2017,TV-14,57,"['drama', 'comedy', 'romance', 'european']",3,7.3,1376,21.568,6.3
+ts86994,2017,TV-14,47,"['crime', 'documentation']",2,3.8,1394,1.396,2.8
+ts53264,2017,TV-MA,71,"['comedy', 'drama', 'romance']",1,7.3,1537,10.653,8
+ts309731,2018,TV-Y,11,"['comedy', 'action', 'animation', 'fantasy', 'thriller']",4,5.3,111,9.315,9.3
+ts85822,2018,TV-14,25,"['drama', 'comedy', 'sport']",1,7.4,2176,6.394,7.6
+ts80617,2018,TV-MA,43,"['action', 'scifi', 'fantasy', 'drama']",4,6.5,34396,32.642,7.4
+ts81821,2018,TV-MA,45,"['drama', 'family', 'music']",2,7.7,1202,279.875,8
+ts82705,2018,TV-Y7,16,"['animation', 'action', 'comedy', 'family']",2,7.5,663,10.833,8.3
+ts321277,2018,TV-MA,60,['comedy'],1,8.5,3387,3.355,8.4
+ts84646,2018,TV-MA,42,"['action', 'drama', 'crime']",1,6.7,1966,7.274,6.5
+ts56033,2017,TV-MA,42,"['crime', 'drama']",1,7.7,985,92.506,7.7
+ts70631,2017,TV-14,24,"['scifi', 'animation', 'drama', 'fantasy']",1,7.1,1524,16.105,7.7
+ts78291,2018,TV-MA,60,"['drama', 'thriller', 'action', 'crime']",1,7.5,12453,11.188,7.4
+ts57985,2017,TV-G,28,"['comedy', 'drama', 'family', 'action', 'documentation']",3,7,2062,48.156,7.8
+ts80600,2018,TV-14,56,"['drama', 'romance', 'history', 'music']",3,8,4556,42.471,8
+ts55232,2017,TV-14,24,"['action', 'scifi', 'animation']",1,5.7,217,5.13,7.2
+ts79182,2018,TV-MA,67,"['drama', 'thriller', 'crime']",1,7.9,3696,10.838,7.8
+ts85967,2018,TV-MA,34,['comedy'],1,7.7,1145,1.542,7.8
+ts78031,2017,TV-MA,46,"['drama', 'crime', 'european']",2,7,1573,4.144,7.4
+ts56670,2017,TV-MA,47,['documentation'],1,6.6,2168,11.357,7.3
+ts86682,2018,TV-PG,50,['documentation'],1,6.8,531,2.621,9
+ts75286,2017,TV-PG,23,['drama'],4,6.6,5967,21,8.1
+ts82218,2018,TV-PG,27,"['action', 'animation', 'comedy', 'romance']",2,8,1952,31.411,8.3
+ts75341,2017,TV-PG,30,['drama'],1,7.2,592,5.162,7.4
+ts83906,2018,TV-PG,39,['reality'],3,8.4,10024,8.898,7.8
+ts82565,2018,TV-MA,53,"['drama', 'thriller']",1,6.6,443,15.009,7.7
+ts78789,2017,TV-MA,23,"['drama', 'thriller']",1,4.9,1531,4.278,5.9
+ts92825,2018,TV-Y,22,"['scifi', 'animation', 'action', 'comedy', 'family']",1,6.2,244,5.651,7.3
+ts56125,2017,TV-MA,40,"['war', 'crime', 'drama', 'thriller']",3,7.2,3052,24.784,6.5
+ts89130,2018,TV-MA,52,"['scifi', 'romance', 'drama', 'fantasy']",1,7.7,2283,10.462,6.9
+ts79660,2017,TV-PG,25,"['scifi', 'family', 'fantasy', 'horror', 'thriller', 'drama']",2,6.5,1826,25.533,7.4
+ts39016,2017,TV-MA,27,['comedy'],1,7,17525,10.68,6.7
+ts80519,2018,TV-Y7,25,"['action', 'romance', 'thriller', 'scifi', 'family', 'comedy', 'drama', 'animation']",3,5.2,372,11.907,8.6
+ts75981,2017,TV-14,49,"['documentation', 'history', 'european']",1,7.3,1541,5.408,7.4
+ts79219,2018,TV-MA,45,"['crime', 'action', 'documentation']",1,7.9,3633,2.712,7.6
+ts79409,2018,TV-14,24,"['scifi', 'animation', 'action']",1,6.3,1189,8.277,6.4
+ts53399,2017,TV-14,45,"['scifi', 'drama', 'fantasy', 'romance', 'family']",1,8.4,2214,20.153,7.8
+ts77787,2018,TV-MA,23,"['comedy', 'animation']",2,6.9,815,12.019,7.3
+ts82127,2018,TV-MA,23,"['scifi', 'action', 'history', 'horror', 'animation']",1,6.7,1883,17.757,7.6
+ts78353,2018,TV-MA,71,"['crime', 'romance', 'thriller', 'drama']",1,8.1,596,12.142,7.8
+ts103638,2018,TV-PG,25,['comedy'],1,5.7,390,1.872,7.7
+ts77034,2017,TV-14,41,"['drama', 'comedy', 'romance']",1,8,1386,42.322,8.4
+ts86949,2018,TV-PG,27,"['drama', 'crime', 'thriller']",2,5.5,2787,14.819,6.8
+ts76511,2017,TV-PG,59,"['reality', 'european']",2,7,665,3.452,7.4
+ts55348,2017,TV-14,32,"['reality', 'documentation', 'sport']",3,7.7,895,3.441,7
+ts80208,2018,TV-MA,90,"['drama', 'crime', 'thriller', 'action']",1,5.6,658,11.013,6.7
+ts82559,2018,TV-PG,26,['documentation'],1,6.6,797,3.17,6.4
+ts80090,2018,TV-PG,26,"['drama', 'comedy', 'animation']",2,7.1,883,25.614,5.9
+ts80313,2018,TV-MA,61,"['documentation', 'drama']",1,8.1,1759,4.283,8.3
+ts90994,2018,TV-Y,15,['animation'],3,6.4,155,12.51,9.8
+ts84346,2018,TV-14,43,"['action', 'thriller', 'crime', 'drama']",2,7,351,172.609,7.5
+ts84833,2018,TV-MA,38,"['scifi', 'drama', 'fantasy', 'horror', 'thriller', 'family']",2,6.8,2521,17.443,7.6
+ts84932,2018,TV-MA,25,"['comedy', 'fantasy', 'animation']",1,5.4,1685,3.636,5.2
+ts81734,2018,TV-14,70,['action'],2,5.2,127,2.194,6.5
+ts79679,2018,TV-MA,108,"['drama', 'crime']",3,7.2,1605,21.312,7.5
+ts78053,2018,TV-MA,30,"['drama', 'thriller']",2,6.8,966,24.535,7.9
+ts80057,2018,TV-14,24,"['scifi', 'animation', 'action']",1,5.8,427,6.93,5.4
+ts80413,2018,TV-14,75,"['comedy', 'reality']",3,7.6,898,14.488,8.4
+ts85659,2018,TV-Y7,22,"['comedy', 'scifi', 'action', 'animation', 'family', 'fantasy']",2,7.7,5927,17.34,7.7
+ts82298,2018,TV-MA,61,"['scifi', 'drama', 'fantasy', 'romance']",1,7.6,937,8.82,8.3
+ts54050,2017,TV-PG,59,"['reality', 'action']",3,7.3,2359,3.181,6
+ts57196,2017,TV-G,54,"['documentation', 'european']",2,7.6,3380,6.909,7.5
+ts55936,2017,TV-14,52,"['comedy', 'romance']",1,7.2,3108,15.98,8
+ts81944,2018,TV-MA,18,"['comedy', 'action']",2,5.9,457,1.96,6
+ts84597,2018,TV-MA,42,['documentation'],1,7.6,806,5.053,6.9
+ts78767,2018,TV-G,36,"['scifi', 'sport', 'documentation', 'reality']",2,7.3,2061,2.038,7.7
+ts85732,2018,TV-PG,43,['reality'],1,7.6,3989,4.386,6.8
+ts82875,2018,TV-MA,39,"['drama', 'scifi']",1,7.1,1402,14.917,7.9
+ts80059,2017,TV-14,55,"['documentation', 'european']",1,7.2,4003,3.824,6.9
+ts36650,2018,TV-MA,67,"['drama', 'crime', 'thriller', 'action', 'european']",1,7,293,3.4,6.9
+ts57300,2017,TV-PG,21,['comedy'],2,7,4056,17.101,6.6
+ts56636,2017,TV-14,41,"['comedy', 'romance']",1,6.9,561,6.751,7.6
+ts84780,2018,TV-MA,45,"['drama', 'thriller', 'action', 'crime']",2,8.2,1898,15.617,7.5
+ts82296,2018,TV-MA,63,"['drama', 'comedy', 'romance']",1,7.4,3774,27.731,7.6
+ts57148,2018,TV-PG,21,['comedy'],1,6.1,3736,8.869,5.5
+ts83359,2018,TV-14,75,"['drama', 'thriller', 'comedy', 'history', 'romance', 'action']",1,7.8,1938,14.871,8.3
+ts79330,2018,TV-MA,45,"['reality', 'documentation']",2,7.3,1073,6.951,8
+ts85202,2018,TV-Y7,25,"['documentation', 'family']",1,8.1,415,3.041,8.3
+ts83457,2018,TV-Y,7,"['animation', 'family']",2,8,98,4.49,8.3
+ts82181,2018,TV-MA,24,"['comedy', 'animation']",1,6.6,815,11.29,6.5
+ts53516,2017,TV-Y7,21,"['action', 'scifi', 'animation', 'comedy', 'drama', 'family']",2,4.8,270,6.957,8.1
+ts95274,2017,TV-PG,54,"['documentation', 'history']",1,7.3,852,3.331,6.7
+ts82867,2018,TV-G,45,"['documentation', 'sport']",1,6.7,389,0.992,6
+ts83554,2018,TV-MA,48,"['crime', 'documentation']",1,5.4,986,1.185,6.7
+ts58442,2017,TV-MA,69,"['drama', 'fantasy', 'romance']",1,8,1224,10.476,6.7
+ts80030,2018,TV-MA,45,"['reality', 'documentation']",2,7.1,1324,12.572,7.2
+ts82424,2017,TV-MA,42,['documentation'],3,6.2,322,7.62,6.5
+ts83247,2018,TV-PG,32,['reality'],1,7.4,1095,2.789,7
+ts79856,2018,TV-MA,22,"['scifi', 'animation', 'action', 'fantasy', 'horror']",2,5.8,907,22.616,6.8
+ts76509,2017,TV-14,21,['documentation'],1,7.4,1883,29.563,7.3
+ts90880,2018,TV-Y7,15,"['action', 'comedy', 'family', 'music', 'animation']",5,6.1,283,7.168,8.4
+ts80084,2018,TV-14,24,"['scifi', 'drama', 'animation', 'fantasy']",1,6.9,494,26.334,7.9
+ts86279,2018,TV-PG,36,['reality'],2,7.7,1086,8.263,8
+ts80042,2018,TV-G,23,"['action', 'scifi', 'comedy', 'drama']",2,3.8,1189,5.977,7.3
+ts75718,2017,TV-MA,23,"['scifi', 'action', 'animation', 'comedy', 'fantasy']",2,5.9,3359,6.887,5.4
+ts75620,2017,TV-MA,78,"['scifi', 'drama', 'action', 'thriller', 'horror', 'romance', 'crime', 'fantasy']",2,8,3665,18.754,8
+ts76159,2017,TV-Y,12,"['animation', 'comedy', 'family', 'horror']",3,6.3,411,30.071,7.2
+ts76793,2017,TV-MA,35,"['reality', 'documentation', 'thriller']",1,8,1770,2.605,7.9
+ts55627,2017,TV-MA,22,['documentation'],1,8.5,2641,3.258,7.9
+ts89067,2018,TV-MA,69,"['drama', 'romance']",1,7.3,547,8.282,6.5
+ts78145,2018,TV-MA,45,['documentation'],2,6.8,1305,11.678,7.7
+ts83407,2018,TV-MA,18,['documentation'],3,4.9,710,1.855,6
+ts85953,2018,TV-Y,13,"['animation', 'family']",1,7.5,26,0.893,5
+ts83213,2018,TV-14,45,"['drama', 'history', 'romance']",1,8.4,1477,19.737,8.1
+ts85810,2017,TV-PG,45,"['action', 'thriller', 'crime', 'romance', 'drama']",5,7.5,1201,25.835,6.3
+ts85217,2018,TV-Y,17,"['animation', 'comedy', 'family', 'fantasy', 'music']",2,7.9,292,3.073,9
+ts89372,2018,TV-Y,18,['animation'],2,6.6,19,3.03,9.5
+ts79988,2018,TV-14,24,"['scifi', 'action', 'animation', 'drama', 'fantasy', 'music', 'romance']",1,7,375,7.2,8.2
+ts78692,2018,TV-MA,60,"['documentation', 'scifi', 'thriller', 'horror', 'music']",1,5.4,11,2.141,6.8
+ts84782,2018,TV-Y7,8,"['comedy', 'animation']",2,6.6,416,10.943,6.5
+ts82419,2017,TV-14,20,['drama'],2,7.8,622,5.313,8
+ts95011,2018,TV-MA,25,['documentation'],1,7.5,112,4.55,7
+ts80342,2018,TV-MA,24,['crime'],1,6.6,410,4.42,6
+ts80479,2018,TV-MA,69,"['comedy', 'drama', 'romance']",1,7,1246,16.42,8.2
+ts92726,2018,TV-14,59,['documentation'],1,7.7,292,3.554,6.3
+ts83070,2018,TV-14,47,['documentation'],1,6.6,517,11.615,6.2
+ts85618,2018,TV-Y7,26,"['comedy', 'family']",2,5.7,471,14.711,7
+ts81596,2017,TV-MA,39,"['war', 'drama', 'thriller']",1,5.4,295,2.297,8
+ts81485,2018,TV-Y,23,['family'],2,6,116,2.161,8
+ts82445,2018,TV-14,43,"['drama', 'comedy', 'thriller', 'fantasy', 'romance']",1,8.5,1875,25.4,9.1
+ts85183,2018,TV-MA,40,"['documentation', 'reality']",2,5.6,448,2.334,6.8
+ts83045,2018,TV-14,29,"['comedy', 'drama', 'music', 'romance']",1,7.6,1100,6.473,7.9
+ts78707,2018,TV-MA,29,['comedy'],2,7.1,2378,5.655,6.4
+ts76245,2017,TV-MA,55,['documentation'],1,6.8,1073,11.011,6.1
+ts79086,2017,TV-MA,46,['drama'],1,7.6,238,1.4,8
+ts84200,2018,TV-PG,25,"['comedy', 'family']",1,6.4,297,5.331,8
+ts82500,2018,TV-Y7,24,['animation'],3,7.6,93,4.358,8.5
+ts82192,2018,TV-MA,28,['comedy'],2,6.6,513,2.847,6.1
+ts55533,2017,TV-Y7,26,"['animation', 'comedy', 'fantasy']",1,7.3,446,7.567,8
+ts82843,2018,TV-PG,27,"['reality', 'comedy', 'horror']",1,7.7,2391,2.45,7.3
+ts75887,2017,TV-14,58,"['documentation', 'european']",1,7.4,206,1.817,6
+ts90941,2017,TV-Y,46,"['comedy', 'family']",1,6.2,20,4.135,8.8
+ts84644,2018,TV-MA,47,['reality'],1,6,168,0.957,4
+ts55484,2017,TV-MA,36,"['drama', 'comedy', 'fantasy', 'romance']",1,7,647,12.756,8.4
+ts81856,2018,TV-MA,24,['comedy'],2,6.2,168,1.992,7.8
+ts76771,2017,TV-G,23,"['action', 'comedy', 'scifi', 'animation']",2,6.2,307,5.244,7.6
+ts79585,2017,TV-Y7,23,"['family', 'animation', 'action', 'comedy']",3,7.5,94,9.489,9.4
+ts75750,2017,TV-MA,68,"['comedy', 'romance']",1,6.9,666,5.915,8.6
+ts76540,2017,TV-Y7,13,"['animation', 'comedy']",2,7.3,82,1.4,7
+ts84555,2017,TV-MA,49,"['action', 'crime']",2,6.7,144,6.419,10
+ts86067,2018,TV-14,33,['reality'],1,6.1,629,2.757,6.9
+ts82564,2018,TV-MA,42,"['drama', 'comedy']",1,6.8,77,1.289,5
+ts83430,2018,TV-MA,24,"['drama', 'crime', 'comedy']",2,7.4,456,4.229,8.3
+ts80859,2018,TV-14,45,"['drama', 'romance']",1,7.5,219,4.003,8.3
+ts75357,2017,TV-Y7,24,"['scifi', 'animation', 'fantasy']",1,6.9,163,1.4,7.7
+ts79707,2018,TV-MA,40,['drama'],1,4.9,632,10.357,6.3
+ts93947,2018,TV-MA,16,"['comedy', 'drama']",1,7.7,148,1.033,7.5
+ts84167,2018,TV-MA,83,"['drama', 'romance', 'crime']",1,8.6,49,3.856,6
+ts81886,2018,TV-G,23,"['comedy', 'music']",1,4.8,708,1.987,4.6
+ts77219,2017,TV-14,40,"['drama', 'family', 'music', 'comedy']",1,6.7,108,5.068,8.5
+ts75320,2017,TV-MA,89,"['drama', 'comedy']",2,7.9,314,1.684,6.6
+ts57913,2017,TV-MA,55,"['drama', 'romance']",1,7.4,626,6.359,6.8
+ts82887,2018,TV-14,24,"['comedy', 'drama']",1,6.8,102,5.757,7.3
+ts81632,2017,TV-MA,84,"['horror', 'drama']",1,2.3,137,1.808,8.3
+ts83710,2018,TV-MA,44,['documentation'],1,6.7,421,8.639,7.7
+ts57281,2017,TV-Y7,23,"['animation', 'comedy', 'family', 'fantasy']",1,7.5,559,6.454,8.5
+ts87591,2017,TV-14,37,"['drama', 'crime']",1,5.6,155,1.307,7
+ts80692,2018,TV-MA,45,['reality'],1,6.6,210,0.6,5.7
+ts113031,2018,TV-MA,23,['reality'],2,3.4,116,1.651,5.5
+ts55576,2017,TV-Y7,22,"['comedy', 'sport', 'animation', 'action', 'family']",2,7.8,489,3.463,8.4
+ts76646,2017,TV-MA,26,"['action', 'comedy']",1,7,116,2.467,8
+ts81857,2018,TV-MA,32,"['comedy', 'drama']",1,6.4,816,4.798,7.8
+ts86302,2018,TV-14,30,"['comedy', 'drama']",2,7.8,129,5.449,6
+ts85250,2018,TV-Y7,19,"['fantasy', 'animation', 'action']",1,7.7,91,5.562,9
+ts56251,2017,TV-14,24,"['scifi', 'animation', 'action', 'drama']",1,6.2,320,2.72,6.3
+ts82160,2018,TV-Y7,24,"['action', 'family', 'animation', 'comedy']",4,6.8,249,4.753,8.5
+ts54112,2017,TV-PG,80,['drama'],1,7.8,106,2.107,7
+ts97584,2017,TV-MA,20,['documentation'],1,6.2,24,0.68,8
+ts80751,2018,TV-MA,30,['comedy'],1,5.1,1862,1.846,4.8
+ts80993,2017,TV-Y7,24,['scifi'],2,6.3,17,2.173,8
+ts58061,2018,TV-PG,44,"['drama', 'romance']",1,5.9,16,5.081,2.7
+ts80671,2018,TV-MA,22,['documentation'],1,7.5,148,1.663,8.3
+ts84372,2018,TV-MA,27,['comedy'],1,6.9,204,3.381,7.1
+ts84341,2017,TV-14,85,['drama'],1,7.3,30,0.6,1
+ts78444,2018,TV-Y,24,['animation'],2,4.8,48,0.858,6
+ts86497,2019,TV-MA,28,"['drama', 'comedy']",2,7.8,88945,31.225,7.6
+ts216679,2020,TV-MA,62,"['drama', 'romance']",4,7.3,122036,206.258,8.2
+ts87466,2019,TV-MA,25,"['animation', 'scifi', 'action', 'fantasy', 'thriller', 'horror']",3,8.7,88265,131.109,8.8
+ts82915,2019,TV-MA,52,"['drama', 'comedy']",4,8.3,251168,309.755,8.4
+ts81007,2019,TV-MA,28,"['comedy', 'drama']",3,8.5,124972,18.619,7.9
+ts88361,2019,TV-MA,13,"['scifi', 'thriller', 'fantasy', 'horror', 'animation', 'action', 'drama', 'comedy']",3,8.4,131937,100.876,8.2
+ts76645,2019,TV-14,52,"['comedy', 'drama', 'fantasy', 'scifi', 'action']",3,8,202522,172.491,8.7
+ts57327,2019,TV-MA,58,"['scifi', 'action', 'drama', 'fantasy', 'horror']",2,8.2,465949,118.384,8.2
+ts87453,2020,TV-MA,30,['comedy'],2,6.7,61739,30.856,6.6
+ts88613,2019,TV-MA,38,"['documentation', 'sport']",6,8.6,36661,40.216,8.4
+ts89259,2020,TV-MA,56,"['drama', 'sport']",1,8.6,406350,104.215,8.6
+ts89339,2019,TV-MA,35,['reality'],5,6.5,5482,21.635,6.8
+ts82914,2019,TV-MA,31,"['drama', 'crime', 'comedy']",2,8,73110,26.891,7.3
+ts90234,2019,TV-MA,16,['comedy'],3,7.9,11411,21.408,6.4
+ts81120,2020,TV-MA,50,"['documentation', 'history', 'sport']",1,9.1,108321,24.459,8.2
+ts224901,2020,TV-MA,45,"['crime', 'thriller', 'drama']",1,7.3,46564,12.988,7.5
+ts84146,2020,TV-MA,29,"['drama', 'comedy', 'romance']",2,6.9,84302,45.54,8
+ts221904,2019,TV-MA,48,"['drama', 'crime']",1,8.4,95658,26.019,8.1
+ts82361,2019,TV-14,24,"['scifi', 'action', 'drama', 'fantasy', 'animation']",3,6.8,2025,34.384,7.4
+ts254656,2020,TV-PG,24,"['action', 'family', 'scifi', 'animation']",4,7.5,7423,106.781,8
+ts89840,2019,TV-14,44,"['drama', 'romance']",3,7.4,34797,39.802,8
+ts235655,2020,TV-MA,49,"['action', 'drama', 'romance', 'thriller', 'crime']",2,7.5,43404,48.11,8.7
+ts87953,2020,TV-14,48,"['scifi', 'thriller', 'drama', 'fantasy', 'horror']",3,7.4,72031,39.805,8.1
+ts223986,2020,TV-MA,52,['reality'],5,7.3,6380,11.315,7.7
+ts252505,2019,TV-PG,44,"['thriller', 'horror', 'family', 'drama', 'fantasy']",2,7.1,2151,75.625,7.5
+ts87248,2019,TV-14,41,"['comedy', 'drama', 'crime', 'horror', 'action']",4,7.7,10927,20.694,8
+ts103702,2020,TV-MA,45,"['crime', 'drama', 'thriller']",2,6.8,11039,220.105,7.2
+ts80962,2019,TV-MA,24,"['comedy', 'animation']",2,7.3,6724,14.9,7.1
+ts225651,2020,TV-MA,25,"['drama', 'comedy', 'romance']",2,7.5,10317,21.662,7.4
+ts304505,2020,TV-MA,54,"['reality', 'romance']",5,6.1,7655,1.4,7.8
+ts287836,2020,TV-MA,36,"['scifi', 'drama', 'thriller']",2,7.1,30746,28.712,7.5
+ts284800,2019,TV-MA,44,"['drama', 'thriller', 'crime']",2,7.6,17992,15.499,7.5
+ts235758,2020,TV-14,28,"['drama', 'comedy']",4,7.8,45346,72.067,8.2
+ts224303,2020,TV-14,19,"['scifi', 'comedy', 'fantasy', 'animation', 'action']",2,7.2,1211,48.912,8.6
+ts242210,2020,TV-MA,62,"['scifi', 'drama', 'fantasy', 'thriller']",1,7.1,395,12.63,7.3
+ts252758,2020,TV-PG,42,['reality'],2,5.3,1454,6.614,7
+ts237107,2020,TV-14,50,"['drama', 'romance']",2,7.3,17435,17.576,7.9
+ts219660,2020,TV-MA,47,"['action', 'drama', 'scifi', 'thriller', 'fantasy']",2,7.6,47651,70.971,8.2
+ts95997,2019,TV-G,43,"['scifi', 'drama']",2,7.1,14464,31.709,7.8
+ts55762,2019,TV-MA,48,"['action', 'thriller', 'drama', 'scifi', 'horror', 'history']",2,8.3,43760,63.579,8.4
+ts89564,2019,TV-MA,39,"['scifi', 'action', 'drama', 'horror', 'thriller']",2,6.5,28657,28.71,7.1
+ts84633,2019,TV-MA,23,"['scifi', 'action', 'thriller', 'drama', 'fantasy', 'horror', 'animation']",2,8.4,34730,56.8,8.9
+ts88379,2020,TV-MA,88,"['action', 'drama', 'fantasy', 'horror', 'thriller']",1,6.8,45971,27.166,7.2
+ts57213,2019,TV-PG,51,"['scifi', 'drama', 'animation', 'fantasy', 'family', 'horror', 'action']",1,8.4,24164,37.456,7.8
+ts82913,2019,TV-MA,74,"['drama', 'history', 'crime']",1,8.9,114127,21.628,8.2
+ts241248,2019,TV-PG,8,"['animation', 'comedy', 'family']",4,4.9,522,6.492,6.3
+ts80709,2019,TV-MA,42,"['scifi', 'thriller', 'drama']",2,5.2,35108,98.27,6
+ts83082,2019,TV-MA,26,"['drama', 'comedy', 'scifi']",2,7.2,30134,16.946,6.8
+ts218569,2019,TV-PG,47,"['history', 'documentation', 'family']",3,7.6,6147,9.973,7.4
+ts113842,2019,TV-MA,58,"['thriller', 'crime', 'drama']",1,7.8,13570,17.212,7.7
+ts223210,2019,TV-MA,62,"['crime', 'documentation']",1,8,50250,20.798,7.7
+ts105825,2019,TV-MA,46,"['thriller', 'crime', 'drama', 'scifi']",1,7.1,13038,8.396,6.8
+ts246072,2020,TV-MA,47,"['action', 'drama', 'history']",1,7.2,23180,60.811,7.4
+ts219101,2019,TV-MA,49,"['thriller', 'drama', 'horror']",1,7.4,14518,23.254,7.7
+ts221200,2020,TV-MA,55,"['drama', 'scifi', 'thriller', 'horror']",1,7.3,96015,28.261,7.8
+ts83555,2019,TV-14,42,"['scifi', 'drama', 'romance']",3,6.2,11928,34.937,8.1
+ts88577,2020,TV-MA,50,"['drama', 'history']",1,7.5,35067,15.085,7.6
+ts84661,2020,TV-MA,55,"['scifi', 'action', 'drama', 'fantasy']",1,5.8,29446,39.313,7.4
+ts105047,2019,TV-MA,43,"['scifi', 'thriller', 'drama']",2,7.2,12456,51.377,7.3
+ts241486,2020,TV-Y7,22,"['animation', 'action', 'scifi', 'comedy', 'family', 'fantasy']",1,6.9,472,1.4,6
+ts107724,2020,TV-MA,54,"['drama', 'thriller']",1,7,5597,11.772,7
+ts87364,2019,TV-MA,59,"['crime', 'history', 'documentation']",1,7.8,27439,12.764,7.6
+ts103133,2020,TV-MA,21,"['comedy', 'drama', 'fantasy', 'scifi']",1,7.5,56459,31.121,8.2
+ts227305,2020,TV-MA,44,"['crime', 'documentation']",2,7.5,76961,13.05,7.1
+ts225522,2020,TV-MA,54,['drama'],1,8,74118,12.826,7.9
+ts89210,2020,TV-MA,43,"['scifi', 'action', 'drama', 'fantasy']",1,6.8,29164,43.914,7.9
+ts104401,2020,TV-MA,47,"['action', 'drama', 'fantasy', 'thriller', 'scifi']",2,7.5,36185,122.034,8.1
+ts83657,2019,TV-MA,48,"['scifi', 'horror', 'drama', 'fantasy', 'crime', 'thriller']",2,6.7,27286,44.535,7.9
+ts222988,2019,TV-14,42,"['reality', 'documentation', 'romance']",2,8.6,5210,5.101,7.7
+ts90729,2020,TV-14,50,"['scifi', 'drama', 'romance']",1,6.6,23706,34.725,6.9
+ts224859,2020,TV-MA,54,"['crime', 'documentation']",1,7.7,6989,4.118,8.4
+ts103329,2020,TV-14,25,"['scifi', 'animation', 'action', 'thriller', 'crime', 'drama']",2,6.2,2020,15.055,6.2
+ts84663,2019,TV-14,43,"['comedy', 'drama']",2,7.5,21887,19.833,7.5
+ts86165,2019,TV-MA,56,"['scifi', 'thriller', 'drama']",1,7,27693,28.6,7.7
+ts215683,2019,TV-14,44,"['action', 'comedy', 'romance', 'drama', 'fantasy', 'horror']",1,8.8,5963,52.565,9.1
+ts85398,2019,TV-G,50,['documentation'],1,9.3,41386,14.33,8.8
+ts218802,2019,TV-14,26,"['documentation', 'sport', 'reality']",1,6.4,3491,8.605,6.9
+ts129445,2019,TV-MA,53,"['drama', 'history']",1,7.9,40535,14.528,7.6
+ts84993,2019,TV-MA,44,"['scifi', 'drama', 'fantasy', 'horror', 'thriller', 'comedy', 'action']",1,6.7,19398,20.154,7.3
+ts249891,2020,TV-MA,82,"['war', 'drama']",1,7.4,8598,9.914,7.3
+ts286390,2019,TV-MA,48,"['drama', 'comedy']",2,7.6,1711,98.052,8.4
+ts236531,2020,TV-MA,42,"['reality', 'romance']",3,4.6,12001,19.838,6.8
+ts82912,2020,TV-MA,54,"['crime', 'drama', 'thriller']",2,7.2,52731,49.499,7.8
+ts89014,2019,TV-PG,10,"['scifi', 'comedy', 'family', 'fantasy', 'drama', 'animation', 'action']",2,7.2,1193,20.123,8.2
+ts250801,2020,TV-MA,34,"['drama', 'thriller']",2,6.5,7135,180.627,7.3
+ts281928,2020,TV-MA,49,"['documentation', 'drama', 'thriller', 'crime']",2,7.3,9391,21.135,7.8
+ts83491,2019,TV-MA,59,"['drama', 'thriller']",1,6.3,15135,21.388,6.7
+ts223404,2020,TV-MA,76,"['drama', 'comedy', 'romance']",1,8.6,21104,67.024,8.6
+ts93054,2019,TV-MA,26,"['comedy', 'crime', 'drama']",2,7,10263,25.549,8.1
+ts82851,2020,TV-MA,45,"['drama', 'thriller']",1,7.6,42018,13.871,7.4
+ts216522,2019,TV-MA,23,"['drama', 'romance', 'thriller', 'animation', 'crime', 'fantasy']",2,7.7,9440,72.782,8.7
+ts221749,2020,TV-MA,24,"['scifi', 'horror', 'animation', 'action', 'comedy', 'fantasy']",1,8.1,7813,27.217,8.6
+ts88469,2019,TV-MA,49,"['drama', 'crime', 'thriller']",3,7.8,16773,20.899,8.1
+ts90019,2019,TV-MA,17,"['comedy', 'drama']",2,7.1,15871,19.611,7.3
+ts223981,2020,TV-MA,56,"['documentation', 'sport', 'reality']",2,8.1,6145,10.286,7.5
+ts88283,2019,TV-MA,44,"['scifi', 'action', 'crime', 'drama', 'fantasy']",1,6.4,12799,23.22,7.3
+ts220751,2019,TV-PG,22,"['scifi', 'animation', 'comedy', 'family']",1,6.7,272,14.65,7.3
+ts88485,2019,TV-Y7,28,"['action', 'family', 'fantasy', 'drama', 'animation', 'comedy', 'romance']",2,8.1,2556,14.865,8.5
+ts90937,2020,TV-14,53,['drama'],1,7.5,9218,6.874,6.9
+ts219080,2020,TV-MA,48,"['war', 'crime', 'drama', 'thriller']",1,8.2,17735,12.921,7.4
+ts250997,2020,TV-PG,39,"['documentation', 'history', 'reality']",1,8,6446,17.015,7.8
+ts237560,2020,TV-MA,57,"['crime', 'documentation']",1,7.1,23216,25.26,7.3
+ts226468,2020,TV-MA,43,"['drama', 'romance']",3,6,2573,87.796,7
+ts86908,2019,TV-14,47,"['drama', 'crime', 'thriller', 'action', 'comedy']",2,6.1,7000,26.53,7.3
+ts237111,2020,TV-MA,27,['comedy'],2,6.8,870,8.845,7.2
+ts255926,2020,TV-14,25,"['comedy', 'drama', 'romance']",1,7.5,16978,20.229,8.3
+ts161737,2019,TV-MA,43,"['thriller', 'crime', 'reality']",1,6.6,5098,24.114,7.9
+ts223344,2019,TV-MA,45,"['scifi', 'drama', 'fantasy']",3,7,21582,12.379,7.8
+ts93611,2020,TV-MA,41,"['drama', 'fantasy', 'horror', 'scifi']",1,6.1,10854,19.174,6.8
+ts255104,2020,TV-MA,20,"['reality', 'drama']",1,6.4,462,14.943,5.8
+ts100116,2019,TV-PG,25,"['reality', 'documentation', 'comedy', 'history']",2,7.1,2876,11.497,7.5
+ts100359,2020,TV-MA,24,['comedy'],1,5.9,4136,9.216,6.7
+ts243036,2020,TV-PG,38,"['drama', 'music']",2,6.9,4435,51.141,7.5
+ts106536,2020,TV-MA,55,"['thriller', 'crime', 'drama']",1,6.6,16506,20.325,6.8
+ts222455,2019,TV-MA,46,"['documentation', 'crime', 'history']",1,7.6,13084,6.216,7.1
+ts225101,2020,TV-14,80,"['drama', 'comedy', 'romance']",1,8.1,9021,23.134,8.5
+ts89282,2019,TV-MA,61,"['crime', 'action', 'drama', 'thriller']",2,6.5,7371,24.546,7.7
+ts236747,2020,TV-MA,51,['comedy'],1,8.6,5147,3.878,7.8
+ts116814,2019,TV-MA,47,"['thriller', 'drama']",1,7.5,5005,14.21,7
+ts268608,2020,TV-MA,49,"['crime', 'documentation']",1,7.1,9228,2.588,7.1
+ts215691,2020,TV-MA,49,"['action', 'drama', 'crime', 'comedy']",1,7.6,10821,27.309,7.9
+ts306090,2020,TV-MA,24,"['action', 'comedy', 'crime', 'drama', 'animation']",1,7.9,4635,15.729,7.6
+ts88699,2019,TV-14,43,"['drama', 'family']",1,7.1,4105,9.248,7
+ts251782,2020,TV-14,42,"['documentation', 'history']",1,7.4,7733,14.827,7.7
+ts215012,2020,TV-Y7,24,"['animation', 'action', 'comedy', 'family', 'fantasy', 'scifi']",3,8.3,5293,20.604,8.5
+ts225787,2020,TV-MA,43,"['crime', 'documentation']",1,7.2,3338,3.591,7.4
+ts192440,2019,TV-PG,86,"['reality', 'documentation']",1,7.4,285,0.646,10
+ts88296,2020,TV-MA,29,"['thriller', 'drama', 'horror']",1,5.7,4298,12.337,7.1
+ts223126,2019,TV-14,48,"['crime', 'documentation']",1,7.4,8733,5.575,7.3
+ts88262,2019,TV-MA,50,"['war', 'thriller']",1,6.6,3020,8.353,6.7
+ts236501,2020,TV-MA,41,"['drama', 'comedy', 'romance']",2,6.5,5510,25.379,7.6
+ts86726,2019,TV-PG,34,['reality'],1,6.6,3529,7.148,6.8
+ts256309,2020,TV-MA,20,['comedy'],1,8,6140,6.338,8
+ts89251,2019,TV-MA,56,['drama'],1,7.4,7715,13.399,7.6
+ts105645,2019,TV-MA,29,['comedy'],1,5.3,1675,2.383,6.3
+ts225718,2020,TV-MA,46,"['drama', 'fantasy', 'thriller', 'action']",1,6.6,5512,10.7,6.9
+ts252856,2020,TV-14,45,"['documentation', 'history']",1,7.8,6778,18.289,7.2
+ts215178,2020,TV-MA,52,['drama'],1,7.5,6279,20.845,8
+ts93066,2019,TV-MA,40,"['drama', 'scifi', 'reality']",1,4.6,16918,15.848,5.7
+ts223759,2020,TV-MA,67,"['crime', 'documentation', 'sport']",1,7.4,16649,8.676,7.4
+ts104840,2019,TV-MA,60,"['drama', 'music', 'crime', 'documentation', 'reality']",1,7.5,2627,4.302,7.1
+ts219162,2019,TV-14,50,['documentation'],1,7.9,10776,7.648,7.6
+ts254592,2020,TV-MA,27,"['documentation', 'music']",2,7.4,758,3.099,8
+ts81646,2019,TV-MA,44,"['drama', 'thriller', 'fantasy', 'horror']",1,6.4,8380,14.065,6.9
+ts219561,2019,TV-14,21,['documentation'],2,8,5230,7.127,7.8
+ts91039,2019,TV-MA,26,['documentation'],2,8.2,5025,14.612,7.8
+ts113506,2019,TV-MA,45,"['documentation', 'drama', 'history', 'romance', 'war']",1,7.3,8096,9.596,7.4
+ts87471,2020,TV-14,23,"['scifi', 'action', 'drama', 'animation']",1,7.3,2284,16.528,7.9
+ts89744,2019,TV-MA,32,"['drama', 'comedy', 'crime', 'romance']",3,7.9,30734,73.548,8.3
+ts225912,2020,TV-MA,42,"['scifi', 'thriller', 'drama']",2,6.8,9346,13.252,7.5
+ts250912,2020,TV-MA,52,"['crime', 'documentation']",1,7.1,7215,9.525,6.9
+ts190462,2020,TV-MA,30,"['comedy', 'drama']",2,7.3,2641,11.096,7.8
+ts187541,2019,TV-14,80,"['action', 'comedy', 'drama', 'fantasy', 'horror', 'romance', 'scifi']",1,8.2,7832,34.492,8.7
+ts105542,2020,TV-14,44,"['romance', 'comedy', 'drama']",1,7.5,4160,12.087,8.1
+ts89075,2019,TV-14,74,"['drama', 'comedy', 'romance']",2,7.7,3665,28.219,7.9
+ts237109,2020,TV-MA,36,"['drama', 'thriller']",2,6.9,8235,83.181,8.2
+ts86978,2019,TV-Y7,23,"['animation', 'scifi', 'action', 'comedy', 'drama', 'fantasy', 'thriller']",2,6.5,585,1.802,9.7
+ts215046,2019,TV-MA,28,"['thriller', 'crime', 'drama']",2,6.6,4355,8.731,6.8
+ts189422,2019,TV-MA,29,"['comedy', 'drama', 'romance']",2,7.7,13670,13.653,7.3
+ts88151,2019,TV-MA,46,"['drama', 'crime', 'thriller']",1,7.5,21077,13.813,7.3
+ts223589,2020,TV-MA,22,['documentation'],1,6.9,3177,30.704,6.6
+ts275111,2020,TV-Y,6,"['comedy', 'family', 'animation']",3,6.4,116,5.195,9.8
+ts237513,2020,TV-MA,29,"['thriller', 'drama', 'horror']",1,6.1,4467,30.348,6.8
+ts88721,2019,TV-MA,26,"['comedy', 'drama']",2,7.6,9202,7.726,6.8
+ts103209,2019,TV-14,36,"['crime', 'family', 'documentation']",1,6.3,1030,6.77,7.4
+ts223240,2020,TV-MA,69,"['drama', 'romance']",1,8.2,12030,29.491,8.6
+ts87008,2019,TV-MA,26,"['drama', 'comedy', 'music']",1,7.1,7251,8.437,7.2
+ts89119,2019,TV-14,59,"['crime', 'documentation']",1,6.6,10286,7.645,6.8
+ts242820,2020,TV-Y7,30,['reality'],2,5.3,2135,5.828,8
+ts251028,2020,TV-MA,49,"['drama', 'horror', 'thriller']",1,6.3,496,6.035,7.9
+ts106015,2019,TV-MA,24,"['animation', 'action', 'sport']",2,8,4719,112.314,8.3
+ts89832,2019,TV-14,61,"['scifi', 'crime', 'fantasy', 'romance', 'comedy']",1,7.1,2131,15.513,8.4
+ts225544,2020,TV-MA,55,"['crime', 'documentation']",1,8.1,10982,10.689,7.5
+ts237751,2020,TV-14,22,"['drama', 'comedy', 'romance']",2,8.5,1066,5.135,8.5
+ts277126,2020,TV-MA,46,"['crime', 'drama', 'thriller']",2,6.7,1758,3.891,7.3
+ts84586,2020,TV-MA,50,"['drama', 'sport']",1,7.6,13692,22.568,8.2
+ts87986,2019,TV-14,67,"['drama', 'comedy', 'music']",1,7.6,2107,9.184,7.5
+ts106126,2019,TV-MA,50,"['drama', 'history']",1,7.6,4442,15.25,7.4
+ts251094,2020,TV-14,35,"['reality', 'documentation', 'romance']",1,6.2,3049,3.185,9
+ts89747,2019,TV-MA,45,"['drama', 'crime', 'comedy']",4,6.8,7154,20.952,7
+ts288350,2020,TV-G,2,"['scifi', 'music', 'comedy', 'drama', 'family', 'fantasy', 'documentation']",1,8.4,9461,16.219,8.6
+ts188991,2020,TV-MA,50,"['crime', 'drama', 'thriller']",1,6.3,4718,10.557,7.3
+ts268560,2020,TV-14,64,"['drama', 'action', 'fantasy', 'horror']",1,8,5552,25.874,8.9
+ts224072,2020,TV-MA,47,"['drama', 'history']",1,7.3,11586,15.211,7.5
+ts83107,2019,TV-MA,42,"['scifi', 'drama', 'horror']",1,6.1,13531,25.554,7.8
+ts216493,2019,TV-MA,51,"['drama', 'comedy']",2,7.7,6052,36.331,7.5
+ts251067,2020,TV-G,27,"['family', 'comedy', 'drama']",2,7.3,3786,25.625,8
+ts108392,2020,TV-PG,47,"['fantasy', 'action', 'family', 'scifi']",1,5.9,7376,7.854,7.1
+ts222606,2019,TV-14,80,['drama'],1,7.7,129,2.334,9
+ts219895,2020,TV-MA,56,"['thriller', 'drama']",1,5.9,9115,43.351,7.7
+ts84129,2019,TV-PG,30,"['comedy', 'drama', 'family']",2,6,2843,26.449,7.1
+ts89326,2019,TV-MA,22,['drama'],2,6.6,1164,3.536,6.5
+ts218888,2020,TV-14,23,"['scifi', 'animation', 'action', 'fantasy']",1,7.2,2478,21.827,8.5
+ts76382,2019,TV-Y7,23,"['action', 'crime', 'animation', 'thriller', 'family']",4,7.9,5557,24.674,8.1
+ts104449,2020,TV-MA,49,"['animation', 'action', 'drama', 'war']",1,7.6,5942,22.812,7.2
+ts237096,2020,TV-MA,62,"['crime', 'documentation']",1,7.1,3096,4.405,7.2
+ts251617,2020,TV-14,44,"['documentation', 'comedy']",1,7.5,1704,2.839,8
+ts91124,2019,TV-MA,49,"['scifi', 'romance', 'comedy', 'drama']",2,6.8,5262,132.183,8.5
+ts88312,2020,TV-MA,58,"['drama', 'music', 'thriller']",1,7.1,2908,7.469,6.6
+ts256007,2020,TV-MA,29,"['comedy', 'drama', 'romance']",2,7.4,7896,23.433,7.4
+ts101408,2020,TV-MA,45,"['thriller', 'crime', 'drama']",1,6.8,8848,28.851,6.9
+ts85480,2019,TV-PG,23,"['scifi', 'music', 'animation', 'drama']",1,7.8,1979,16.589,7.6
+ts315066,2020,TV-MA,40,"['scifi', 'drama', 'fantasy', 'horror']",1,5.6,1234,13.542,7.5
+ts216474,2019,TV-MA,50,"['crime', 'thriller', 'drama']",1,7.2,3032,11.01,7.3
+ts189405,2019,TV-MA,50,"['documentation', 'crime']",1,7.6,1671,2.579,7.6
+ts242244,2020,TV-MA,26,"['action', 'scifi', 'animation', 'drama']",1,6.4,2922,9.134,7.4
+ts236725,2020,TV-MA,50,['documentation'],1,8.7,2276,8.216,6.8
+ts113637,2019,TV-MA,61,"['documentation', 'crime']",1,7.1,2127,7.887,7.4
+ts252122,2020,TV-MA,9,"['thriller', 'horror']",1,5.7,882,0.667,10
+ts222917,2019,TV-MA,40,['documentation'],1,6.4,2009,1.838,6.1
+ts86927,2019,TV-MA,63,"['comedy', 'drama', 'romance']",1,7.7,3046,22.616,8.4
+ts321758,2019,TV-MA,61,"['drama', 'action', 'thriller', 'romance']",1,8.2,7544,23.382,8.5
+ts215378,2020,TV-14,46,"['comedy', 'drama', 'romance']",2,7.5,13797,12.956,8.2
+ts268890,2020,TV-14,30,"['drama', 'romance']",1,7.7,2129,15.138,7.7
+ts223192,2020,TV-14,90,"['comedy', 'drama']",2,8.8,4836,58.017,9
+ts226602,2020,TV-MA,53,"['crime', 'documentation']",1,7,3232,2.716,7.3
+ts255880,2020,TV-G,27,['reality'],2,5.5,1078,3.903,7.8
+ts221174,2019,TV-Y,12,"['animation', 'family']",2,6.3,90,0.856,7.3
+ts103360,2020,TV-MA,52,"['scifi', 'fantasy', 'thriller', 'action', 'drama', 'war']",1,6.8,3447,22.236,7.2
+ts296153,2020,TV-PG,30,['comedy'],3,6.8,1183,10.666,7.8
+ts254600,2020,TV-MA,44,"['documentation', 'sport']",1,7.4,1360,12.259,6.8
+ts225716,2019,TV-MA,47,"['comedy', 'family']",3,7.4,3907,14.761,7.3
+ts256783,2020,TV-MA,29,['documentation'],1,7.1,1379,15.129,5.8
+ts89048,2019,TV-PG,52,['drama'],2,7.5,2163,33.995,8.3
+ts268508,2020,TV-PG,44,"['documentation', 'animation', 'scifi']",1,6.5,3509,17.867,6.8
+ts86413,2020,TV-14,52,"['comedy', 'drama']",1,7.4,7961,15.178,7.8
+ts218564,2019,TV-MA,44,['documentation'],1,6.7,1045,4.356,8
+ts89291,2019,TV-MA,46,"['comedy', 'drama']",2,6.7,1274,6.586,6.7
+ts254293,2020,TV-G,43,['reality'],1,7.1,1151,17.691,6.2
+ts237104,2020,TV-PG,22,"['documentation', 'history']",1,6.8,4031,8.161,7.2
+ts89876,2019,TV-MA,36,['comedy'],1,6.6,3136,2.802,6.2
+ts252341,2020,TV-14,45,['documentation'],1,7.8,981,2.73,7.7
+ts269690,2020,TV-MA,17,['comedy'],1,7.3,1069,1.431,7.3
+ts221363,2019,TV-MA,44,"['drama', 'crime']",1,7.7,5108,5.923,7.1
+ts256764,2020,TV-14,24,"['action', 'scifi', 'animation']",1,8.3,1349,14.073,8.5
+ts88471,2019,TV-MA,57,"['drama', 'romance']",2,7.8,3423,10.219,7.2
+ts88909,2019,TV-14,54,['reality'],4,6.8,1975,9.155,7
+ts218500,2019,TV-Y,24,"['animation', 'action', 'comedy', 'family', 'fantasy', 'scifi']",2,5.9,304,20.749,7
+ts187386,2020,TV-G,25,['family'],1,6.6,161,7.715,9
+ts86928,2019,TV-14,75,"['action', 'history', 'romance', 'drama']",1,8,880,14.408,8.7
+ts89881,2019,TV-14,29,['comedy'],3,7.1,6703,17.882,7.5
+ts90511,2019,TV-MA,45,['crime'],1,7.3,850,17.886,7.3
+ts213232,2019,TV-PG,42,['reality'],1,5.9,759,4.913,6
+ts185885,2020,TV-MA,48,"['drama', 'history', 'thriller']",1,6.8,2119,8.562,7
+ts217891,2019,TV-14,25,"['scifi', 'action', 'animation', 'fantasy']",2,4.5,1808,56.878,7.3
+ts85619,2019,TV-MA,45,"['crime', 'drama', 'thriller']",2,6.5,1610,16.4,6.6
+ts268099,2020,TV-Y7,22,"['action', 'animation']",1,6.6,65,3.647,7
+ts106141,2019,TV-MA,27,"['thriller', 'drama']",2,5.7,661,5.284,8.2
+ts255809,2020,TV-14,58,"['crime', 'documentation']",1,7,2375,16.289,7.6
+ts192297,2019,TV-Y,6,"['animation', 'family']",5,5.1,77,2.388,10
+ts82739,2019,TV-MA,47,"['crime', 'drama']",2,6.3,871,9.713,6.9
+ts226588,2020,TV-14,37,"['documentation', 'reality']",1,5.7,3958,4.073,6.5
+ts222634,2019,TV-MA,20,"['comedy', 'drama', 'fantasy']",1,7.7,1956,5.34,7.6
+ts251615,2020,TV-MA,52,"['reality', 'documentation']",1,6.4,1041,3.147,6.7
+ts254568,2020,TV-MA,45,"['comedy', 'drama']",1,7,948,2.453,6.7
+ts226617,2020,TV-MA,64,"['documentation', 'crime', 'drama']",1,8,2622,3.151,7.4
+ts110637,2019,TV-MA,52,"['fantasy', 'horror', 'scifi', 'crime', 'drama']",2,6.5,1390,12.025,7.5
+ts213820,2020,TV-14,51,['reality'],1,7.3,3572,6.992,8
+ts88744,2019,TV-MA,8,"['documentation', 'sport', 'comedy', 'european']",1,7.6,1741,1.664,7.4
+ts90621,2019,TV-MA,42,"['drama', 'comedy']",2,9.3,66985,10.107,8.2
+ts90995,2019,TV-MA,178,"['documentation', 'history']",1,7.5,514,2.227,8.7
+ts88841,2020,TV-14,51,"['scifi', 'comedy', 'drama', 'fantasy']",1,6.4,1147,16.646,7.8
+ts93981,2019,TV-MA,44,['drama'],2,7.8,3210,44.736,7.6
+ts102933,2019,TV-MA,50,"['sport', 'drama']",2,6.8,429,9.711,7.7
+ts252661,2020,TV-MA,30,"['crime', 'documentation']",1,6.4,386,6.097,6.7
+ts90413,2019,TV-G,13,['animation'],3,6.9,159,11.194,7
+ts306187,2019,TV-PG,29,"['family', 'comedy']",5,6.4,2576,22.261,8.6
+ts225102,2020,TV-14,73,"['drama', 'romance']",1,7.3,2278,31.24,8.4
+ts214280,2019,TV-MA,45,"['action', 'crime']",1,6.4,1098,43.7,7.2
+ts187443,2020,TV-MA,53,"['crime', 'drama', 'thriller']",1,6.6,4065,16.744,7
+ts86946,2019,TV-MA,42,"['scifi', 'romance']",1,5.8,3003,13.835,5.9
+ts90645,2019,TV-MA,68,"['action', 'thriller', 'drama', 'romance']",1,6.8,554,6.727,7
+ts113748,2019,TV-PG,22,"['animation', 'action', 'comedy', 'family', 'fantasy']",1,6.6,664,5.075,6.4
+ts90095,2019,TV-14,32,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",1,3.5,10043,6.461,6.5
+ts87224,2019,TV-14,40,"['scifi', 'drama', 'fantasy']",2,6.3,2406,17.337,7.2
+ts223238,2020,TV-14,57,"['scifi', 'drama', 'romance']",1,7.6,2401,32.084,8.6
+ts90280,2019,TV-MA,40,['drama'],1,5.9,687,14.193,6.6
+ts188840,2019,TV-MA,26,"['drama', 'fantasy', 'animation', 'action', 'crime']",1,7.1,1573,10.472,6.9
+ts218277,2019,TV-MA,45,"['drama', 'sport', 'thriller', 'crime']",1,7.3,1582,14.627,7.6
+ts89231,2019,TV-PG,20,"['action', 'reality']",2,6.6,2570,5.084,6.7
+ts251512,2020,TV-MA,62,['documentation'],1,7.4,1096,9.017,7
+ts254916,2020,TV-MA,27,"['reality', 'comedy']",1,6.6,1637,4.364,9
+ts104485,2019,TV-MA,49,"['drama', 'action']",1,6.2,1241,22.162,7.2
+ts222049,2019,TV-MA,45,"['crime', 'history', 'documentation']",1,7.5,2125,7.178,7.5
+ts223456,2020,TV-14,49,['documentation'],1,6.3,2759,10.962,7
+ts110635,2020,TV-MA,45,"['drama', 'fantasy', 'thriller', 'scifi']",1,6,2883,21.419,7.8
+ts191121,2020,TV-MA,31,"['comedy', 'horror', 'scifi']",1,5.6,2437,19.62,6.8
+ts236051,2020,TV-MA,31,"['documentation', 'sport']",3,7.4,756,3.95,7.1
+ts89028,2019,TV-MA,27,"['drama', 'crime']",1,8.5,18732,6.231,8.2
+ts269442,2020,TV-14,50,['documentation'],1,8.5,1010,4.822,7.7
+ts87320,2019,TV-MA,22,"['drama', 'comedy']",3,7.6,688,7.985,8.8
+ts269501,2020,TV-MA,50,"['documentation', 'music']",1,7.6,1215,13.537,7.6
+ts103213,2020,TV-MA,89,"['drama', 'thriller', 'action', 'crime']",2,5.9,1226,4.891,7.5
+ts223948,2020,TV-MA,33,"['documentation', 'reality']",1,2.5,3306,3.545,3.5
+ts238242,2020,TV-MA,44,"['drama', 'thriller', 'crime']",1,7.3,2528,31.934,7.3
+ts187070,2019,TV-Y,26,['family'],2,6.6,498,23.821,7.1
+ts256853,2019,TV-MA,36,"['action', 'fantasy']",1,8.2,1042,22.822,8.9
+ts251621,2020,TV-14,45,"['crime', 'documentation']",1,7.1,2481,2.966,8
+ts89347,2019,TV-G,37,['documentation'],2,7.9,2712,3.764,7.9
+ts250920,2020,TV-MA,29,"['documentation', 'sport']",1,7,841,2.721,6.4
+ts85451,2019,TV-MA,57,"['drama', 'music']",1,7.2,497,2.761,6.9
+ts89583,2019,TV-MA,25,"['animation', 'comedy']",2,7.6,2854,17.146,7.3
+ts104168,2019,TV-MA,53,"['action', 'drama']",2,6.8,1853,49.839,7.4
+ts87488,2019,TV-G,26,"['comedy', 'action', 'family']",1,5.4,979,10.9,8
+ts87473,2019,TV-MA,25,"['scifi', 'drama', 'animation', 'action', 'horror', 'romance']",2,6.3,1378,31.425,8.1
+ts190452,2020,TV-14,48,"['thriller', 'action', 'crime', 'drama']",1,7.1,2314,11.356,7.1
+ts251119,2020,TV-MA,43,"['drama', 'romance', 'sport']",1,6.5,25,2.708,6.3
+ts88821,2019,TV-14,45,"['drama', 'comedy', 'romance']",1,7.3,560,15.664,7.9
+ts91034,2019,TV-MA,46,"['war', 'scifi', 'drama']",1,4.7,8796,1.4,7
+ts101060,2019,TV-PG,26,['comedy'],1,6.4,4542,10.85,6.6
+ts88133,2019,TV-14,43,"['drama', 'romance']",2,7.2,1433,29.43,8.1
+ts317497,2019,TV-MA,30,"['comedy', 'action']",2,6.5,2125,13.672,6.6
+ts216513,2020,TV-G,30,"['fantasy', 'action', 'comedy', 'drama', 'family']",1,6.5,873,11.905,7.2
+ts218176,2020,TV-PG,26,['comedy'],1,6.3,2375,15.341,7.5
+ts88552,2019,TV-Y7,40,"['drama', 'comedy', 'romance']",2,6.7,606,23.687,9.3
+ts83810,2019,TV-MA,24,"['scifi', 'action', 'animation', 'fantasy']",1,6.7,1172,4.6,6.7
+ts252318,2020,TV-MA,28,['reality'],1,4.2,804,1.957,5.7
+ts236332,2020,TV-PG,20,['documentation'],1,3.9,1459,19.898,5.9
+ts89331,2019,TV-MA,34,"['drama', 'romance']",1,6.7,798,6.306,6.1
+ts254767,2020,TV-PG,25,['documentation'],1,7.3,1139,4.348,7.4
+ts84639,2019,TV-MA,22,"['action', 'scifi', 'animation']",1,5.9,598,7.336,7
+ts191285,2019,TV-PG,45,"['drama', 'sport']",1,7.6,206,4.438,9.2
+ts87372,2019,TV-14,24,"['action', 'fantasy', 'animation']",1,6,610,20.071,6.9
+ts90789,2019,TV-MA,44,"['reality', 'crime', 'thriller']",1,7,1160,9.54,7.8
+ts256606,2020,TV-MA,55,"['documentation', 'crime']",1,7.4,2039,5.972,7.1
+ts227412,2020,TV-Y7,6,"['comedy', 'family', 'animation']",1,8.1,551,2.109,8.8
+ts87698,2019,TV-MA,51,"['documentation', 'history', 'crime']",1,7.8,422,1.833,8.8
+ts87680,2019,TV-14,43,['drama'],1,5.9,944,26.283,7.1
+ts251378,2020,TV-PG,37,"['comedy', 'family', 'documentation', 'animation']",1,7.4,769,4.693,7.4
+ts90980,2019,TV-MA,3,"['comedy', 'animation']",1,7.5,2886,4.064,6.7
+ts88937,2019,TV-MA,43,"['action', 'crime', 'drama', 'thriller']",1,6.6,956,2.08,6.5
+ts85510,2019,TV-MA,57,"['reality', 'music']",2,7.6,1541,3.802,8.2
+ts101042,2019,TV-MA,56,"['documentation', 'war']",1,7.1,140,5.066,6.9
+ts218367,2019,TV-MA,30,"['drama', 'romance']",1,4.9,188,2.343,10
+ts90508,2019,TV-PG,24,['reality'],1,4.4,703,3.04,5.6
+ts108593,2019,TV-14,23,"['fantasy', 'horror', 'scifi', 'thriller', 'crime']",1,5.2,712,12.273,7
+ts222803,2019,TV-MA,37,"['documentation', 'sport', 'comedy', 'drama']",1,7.3,1119,3.895,7.1
+ts236182,2020,TV-MA,11,"['comedy', 'drama']",1,5.1,1944,5.258,5
+ts226403,2020,TV-MA,49,['reality'],1,6.8,761,2.497,7.3
+ts218890,2020,TV-14,24,"['action', 'scifi', 'animation', 'fantasy']",1,6,569,8.863,7.7
+ts89361,2020,TV-14,27,"['scifi', 'action', 'fantasy', 'animation']",2,5.3,563,14.62,7.4
+ts252141,2020,TV-Y7,23,"['comedy', 'animation', 'family']",2,6.3,293,12.66,6.7
+ts223242,2020,TV-MA,69,"['drama', 'comedy', 'romance']",1,7.1,870,6.052,8.3
+ts251618,2020,TV-PG,25,"['documentation', 'family', 'drama']",1,5,1210,10.31,6.9
+ts251061,2020,TV-14,21,"['scifi', 'drama', 'animation', 'action', 'fantasy']",2,7.7,80,11.535,9.5
+ts250871,2020,TV-MA,44,"['crime', 'documentation']",1,7.2,1646,6.74,7
+ts243256,2020,TV-MA,20,"['drama', 'comedy']",1,5.7,651,12.324,6.8
+ts224796,2020,TV-14,51,"['drama', 'thriller']",1,6.3,716,4.13,7
+ts105608,2020,TV-MA,41,"['thriller', 'crime', 'drama']",1,5.6,542,10.317,7.1
+ts89315,2019,TV-MA,30,['comedy'],1,6.8,2809,4.471,5.3
+ts269157,2020,TV-MA,49,"['documentation', 'crime']",1,7,2298,3.169,7.3
+ts103935,2019,TV-MA,52,"['romance', 'action', 'drama']",1,7.3,743,33.482,7.7
+ts223084,2019,TV-MA,56,"['crime', 'drama', 'thriller', 'action']",1,5.6,360,3.59,6.6
+ts100354,2019,TV-MA,45,"['crime', 'drama', 'history', 'sport']",1,7.9,717,2.791,8.3
+ts253288,2020,TV-MA,62,['comedy'],1,5.4,166,1.678,10
+ts89340,2019,TV-MA,37,"['war', 'crime', 'drama', 'thriller']",1,7.5,803,11.594,7.4
+ts270439,2020,TV-G,36,['reality'],1,5.6,515,1.733,6.8
+ts217356,2020,TV-MA,47,"['action', 'horror', 'thriller']",1,5.4,8884,11.096,6.7
+ts254537,2020,TV-MA,45,"['drama', 'thriller', 'crime']",1,7.6,3552,13.579,7.4
+ts268758,2020,TV-MA,32,"['comedy', 'drama', 'romance']",1,5.5,3712,4.059,6.6
+ts86365,2019,TV-PG,12,"['comedy', 'drama', 'family', 'animation']",1,8.3,1579,18.274,7.2
+ts218504,2019,TV-Y,13,"['animation', 'action', 'comedy', 'family', 'fantasy']",4,6.7,119,7.574,7
+ts89330,2019,TV-14,46,['comedy'],1,7.5,343,2.928,9
+ts250803,2020,TV-14,55,['reality'],1,7.7,527,3.444,7.7
+ts79695,2019,TV-MA,44,"['crime', 'drama', 'music']",2,6.7,1067,5.957,7.5
+ts90640,2019,TV-14,34,"['drama', 'crime']",1,8.2,30,3.733,10
+ts86940,2019,TV-MA,30,['comedy'],1,6.5,450,5.965,6.7
+ts214462,2020,TV-14,46,"['history', 'drama']",1,6.6,172,7.958,10
+ts251272,2020,TV-MA,36,['reality'],1,5.8,405,4.305,8
+ts269073,2020,TV-MA,32,"['reality', 'documentation', 'romance']",1,5.3,9666,3.448,5.5
+ts214192,2019,TV-MA,50,"['action', 'drama']",1,5.1,208,93.411,4
+ts104483,2019,TV-MA,50,"['thriller', 'horror', 'drama']",1,6.5,3788,9.507,6.7
+ts269740,2020,TV-MA,50,"['drama', 'comedy']",2,6.1,488,2.1,10
+ts87489,2019,TV-MA,26,"['documentation', 'comedy']",1,6.9,1249,2.457,7.1
+ts217389,2020,TV-MA,31,"['comedy', 'drama']",2,6.8,1746,4.879,9
+ts223308,2019,TV-MA,20,['comedy'],1,6.9,591,1.557,7.3
+ts218307,2019,TV-14,37,['reality'],1,6.6,355,2.073,10
+ts222942,2019,TV-MA,40,"['crime', 'documentation']",1,6.6,317,2.257,9.1
+ts223110,2019,TV-PG,50,['reality'],2,6.8,578,1.298,7.7
+ts222599,2019,TV-14,50,['reality'],1,8.2,2560,1.161,7.1
+ts112733,2019,TV-MA,45,"['action', 'drama', 'thriller']",2,6.8,13210,7.616,7.2
+ts224906,2020,TV-14,45,"['drama', 'romance']",1,7.6,201,33.708,7.7
+ts105601,2019,TV-Y7,24,"['scifi', 'animation', 'comedy', 'family', 'fantasy', 'action']",2,7.5,284,10.207,8
+ts214861,2019,TV-MA,25,"['comedy', 'horror', 'reality', 'scifi']",2,5.2,2615,20.083,7.3
+ts228502,2020,TV-MA,19,['comedy'],1,5,914,2.545,8
+ts112667,2020,TV-Y,9,"['animation', 'comedy', 'family']",6,7.9,238,14.214,8.4
+ts251929,2020,TV-14,29,['reality'],1,6.2,110,1.469,5.5
+ts221041,2019,TV-14,42,"['fantasy', 'romance']",1,4.6,19,6.471,9.3
+ts101503,2019,TV-PG,30,['comedy'],3,4,333,12.491,8.2
+ts90063,2019,TV-Y7,40,"['drama', 'romance', 'comedy']",1,8,2063,28.025,8.4
+ts252015,2020,TV-G,29,"['comedy', 'family']",2,5.4,213,1.761,7.7
+ts251072,2020,TV-MA,55,['drama'],1,6.4,62,6.24,6.7
+ts88608,2019,TV-MA,38,"['documentation', 'sport']",1,7.2,699,1.4,9
+ts237556,2020,TV-MA,30,['comedy'],2,4.3,189,12.853,7
+ts89696,2019,TV-14,41,"['drama', 'crime']",1,6.9,327,10.016,8
+ts89363,2019,TV-Y,13,['family'],3,6.8,53,1.402,8
+ts253722,2020,TV-G,36,"['reality', 'music']",1,6.4,380,3.073,8.5
+ts221151,2019,TV-MA,42,['documentation'],1,6.7,577,1.686,6
+ts88166,2019,TV-PG,32,['reality'],3,6.2,308,6.237,7.1
+ts256134,2020,TV-PG,24,"['reality', 'music']",1,6.3,169,0.777,9.7
+ts89895,2019,TV-Y,6,"['comedy', 'family', 'fantasy', 'animation']",3,6.4,249,8.062,8.2
+ts105589,2020,TV-Y,23,"['animation', 'comedy', 'family']",2,7.5,78,8.925,8.2
+ts103574,2019,TV-MA,51,"['action', 'comedy']",1,6.5,131,2.609,7
+ts236769,2020,TV-PG,23,['documentation'],1,7.6,2223,8.891,7.3
+ts92405,2020,TV-MA,32,"['crime', 'comedy', 'drama']",1,5.3,2673,3.347,7
+ts189314,2019,TV-14,23,"['comedy', 'reality']",2,6.5,555,2.37,6.2
+ts233367,2020,TV-G,39,"['music', 'reality']",1,6,130,1.86,8.5
+ts257243,2020,TV-PG,36,"['music', 'reality']",1,6.8,382,4.411,8
+ts221891,2019,TV-Y7,25,"['action', 'animation']",1,7.6,126,2.645,10
+ts90466,2019,TV-MA,23,"['drama', 'comedy']",2,5.7,6,3.24,8.3
+ts89336,2019,TV-Y,23,"['animation', 'family']",4,7,148,2.985,8.5
+ts89656,2019,TV-14,46,"['scifi', 'drama', 'fantasy']",1,7.4,224,5.267,9
+ts252695,2020,TV-G,7,['family'],1,5,160,3.193,8
+ts230973,2019,TV-Y7,31,"['documentation', 'music']",1,7.7,42,2.055,9.5
+ts224261,2020,TV-14,35,['reality'],1,5.7,100,3.934,10
+ts225708,2020,TV-14,21,"['drama', 'comedy', 'history', 'scifi']",1,4.3,3074,1.4,10
+ts45322,2019,TV-PG,36,"['drama', 'romance']",1,8.1,121,5.345,9
+ts222512,2019,TV-14,34,['reality'],1,6.4,112,0.713,8.5
+ts223121,2019,TV-MA,40,"['comedy', 'drama']",1,6.8,17,0.926,10
+ts78324,2019,TV-Y7,13,"['comedy', 'family', 'animation']",3,5.8,865,8.557,5
+ts223115,2019,TV-14,56,"['family', 'comedy', 'romance']",1,7.8,17,6.55,10
+ts222802,2019,TV-14,45,"['action', 'comedy', 'fantasy', 'romance', 'drama']",2,7.5,261,9.584,7.7
+ts87599,2019,TV-MA,58,"['drama', 'romance']",1,7.3,158,6.363,9
+ts268648,2020,TV-MA,29,"['documentation', 'music']",1,6.8,398,5.792,5.5
+ts268997,2020,TV-14,40,"['thriller', 'scifi']",1,6.4,182,3.412,10
+ts221472,2020,TV-14,39,['comedy'],1,5.2,213,2.902,6.5
+ts235689,2020,TV-14,64,['reality'],1,4.9,111,3.946,7.5
+ts222901,2019,TV-MA,24,['drama'],1,5.5,21,0.6,10
+ts213071,2019,TV-MA,46,"['drama', 'thriller']",1,5.5,43,3.134,9.3
+ts258169,2020,TV-G,43,['reality'],1,5.8,291,6.128,6.8
+ts234501,2020,TV-Y,8,"['fantasy', 'animation', 'comedy', 'family']",2,7.1,61,2.003,10
+ts269280,2020,TV-MA,51,"['crime', 'thriller']",1,5.6,491,6.273,8
+ts241246,2020,TV-MA,48,['drama'],1,6.4,105,1.332,2
+ts234505,2020,TV-MA,51,['comedy'],1,6.2,126,1.968,7
+ts215862,2019,TV-Y7,3,['family'],1,8,14,1.052,10
+ts236850,2020,TV-14,41,"['action', 'drama']",1,7.8,170,3.074,8.5
+ts251607,2020,TV-Y,4,"['animation', 'family']",1,3.6,18,1.497,10
+ts89740,2019,TV-14,42,"['drama', 'crime']",1,7.4,68,3.82,9
+ts264270,2022,TV-MA,45,"['drama', 'thriller']",1,7,16425,40.449,7.8
+ts217231,2022,TV-14,28,"['drama', 'romance']",1,8.9,28978,926.362,8.9
+ts108385,2022,TV-MA,68,['drama'],1,6.8,54105,126.677,6.8
+ts225061,2022,TV-MA,52,"['crime', 'drama', 'thriller']",1,6.4,11322,15.955,6.6
+ts344184,2022,TV-MA,61,"['crime', 'documentation']",1,7.2,3984,534.857,7.8
+ts256310,2021,TV-14,24,"['animation', 'action', 'scifi']",2,7,4796,76.137,8.4
+ts270910,2022,TV-MA,51,"['war', 'action', 'drama', 'history', 'romance']",1,7.1,31330,504.811,8.1
+ts222333,2021,TV-14,41,"['action', 'scifi', 'drama', 'fantasy', 'animation']",1,9.1,175412,138.891,9.1
+ts301625,2022,TV-MA,47,"['crime', 'drama', 'thriller']",1,6.1,1113,14.897,7.2
+ts311987,2022,TV-MA,52,"['crime', 'documentation']",1,5.8,2062,4.076,5.1
+ts215951,2021,TV-MA,64,"['action', 'drama', 'fantasy', 'horror', 'scifi']",1,7.7,102321,138.708,7.6
+ts307973,2022,TV-MA,34,"['crime', 'comedy']",1,6.9,10414,6.027,5.9
+ts240453,2022,TV-MA,61,"['comedy', 'crime', 'drama', 'thriller', 'action']",1,7.5,1991,52.364,7.1
+ts333834,2022,TV-MA,50,['reality'],1,5.4,1440,3.902,7
+ts294338,2022,TV-MA,26,"['comedy', 'documentation', 'sport']",1,6.1,618,3.175,5.5
+ts256072,2022,TV-MA,26,"['crime', 'comedy', 'drama', 'thriller']",1,6.3,38964,16.343,7.2
+ts256710,2022,TV-MA,54,"['scifi', 'drama', 'horror', 'thriller']",1,7.3,43068,99.77,7.4
+ts343599,2022,TV-MA,85,"['crime', 'documentation']",1,6.7,4711,6.13,7.1
+ts220305,2021,TV-MA,54,"['action', 'drama', 'thriller']",2,8,416738,272.707,7.8
+ts343432,2022,TV-MA,48,"['scifi', 'action', 'drama', 'thriller']",1,6.1,3861,26.545,7.2
+ts281927,2021,TV-MA,47,"['crime', 'drama', 'thriller']",1,6.9,28669,12.185,7.2
+ts223537,2021,TV-MA,54,"['drama', 'comedy']",1,8.4,74955,0.6,7.9
+ts340376,2022,TV-MA,44,"['thriller', 'drama']",2,6.3,1103,1455.085,6.8
+ts346959,2022,TV-14,44,"['documentation', 'history']",1,7,958,16.052,6.3
+ts87242,2021,TV-14,52,"['scifi', 'drama', 'fantasy', 'action']",1,7.6,77782,40.145,8.2
+ts296046,2021,TV-MA,46,"['crime', 'drama', 'comedy', 'action']",3,7.5,100575,80.767,7.9
+ts227473,2021,TV-MA,43,"['thriller', 'drama', 'horror', 'scifi']",1,7.1,14449,94.346,6.9
+ts321918,2022,TV-MA,27,"['comedy', 'romance', 'animation']",1,7.2,4761,37.594,6.8
+ts225855,2022,TV-MA,61,"['action', 'scifi', 'thriller', 'drama', 'fantasy', 'horror']",1,7.5,41393,678.734,8.5
+ts257504,2022,TV-MA,54,"['comedy', 'scifi', 'drama', 'history']",1,7,599,22.957,5.6
+ts102086,2021,TV-MA,50,"['drama', 'thriller']",1,7.2,57514,27.95,7.6
+ts330402,2022,TV-PG,38,['reality'],1,5.7,465,5.257,7.6
+ts329699,2022,TV-MA,66,['documentation'],1,7.7,1496,2.932,7.6
+ts237722,2022,TV-Y7,15,"['family', 'fantasy', 'animation', 'action', 'comedy']",1,7.5,5792,107.524,8.1
+ts85985,2021,TV-MA,45,"['scifi', 'comedy', 'crime', 'drama', 'fantasy', 'action']",1,6.6,35427,19.747,6.9
+ts343430,2022,TV-MA,41,"['drama', 'thriller', 'crime', 'fantasy']",1,7.5,1196,81.887,7.7
+ts232107,2021,TV-MA,45,"['horror', 'drama', 'scifi', 'thriller']",1,6.9,18548,138.542,8
+ts237713,2021,TV-14,45,"['scifi', 'drama', 'fantasy', 'action']",2,7.8,49182,82.385,8
+ts300391,2021,TV-MA,46,"['thriller', 'crime', 'drama']",1,7.2,50140,60.49,7.6
+ts94677,2022,TV-MA,47,"['crime', 'documentation', 'drama', 'thriller']",1,8.1,8,8.063,7.6
+ts251675,2021,TV-MA,52,"['scifi', 'horror', 'thriller', 'crime', 'drama', 'fantasy']",1,6.6,22107,218.433,7.6
+ts234817,2022,TV-MA,49,"['drama', 'scifi', 'thriller', 'action', 'crime']",1,6.2,6663,10.393,7.6
+ts286731,2021,TV-14,24,"['drama', 'comedy', 'animation', 'romance']",2,7.8,4358,344.515,7.6
+ts314164,2022,TV-14,60,"['drama', 'action', 'comedy', 'fantasy']",1,7.7,603,38.209,9.3
+ts279892,2021,TV-14,54,"['drama', 'comedy']",1,7.4,44573,86.555,8.1
+ts311985,2021,TV-MA,28,"['comedy', 'fantasy', 'scifi', 'animation']",1,7.6,15137,40.604,8.2
+ts250998,2022,TV-MA,46,"['drama', 'history']",1,7.3,717,5.4,8.3
+ts331681,2022,TV-G,9,"['family', 'fantasy', 'animation']",1,5.6,176,175.729,5.7
+ts225645,2021,TV-MA,30,"['drama', 'comedy']",1,7.2,15894,1.4,7.1
+ts296472,2021,TV-MA,55,"['crime', 'drama', 'thriller']",1,7.7,41253,65.023,7.7
+ts321513,2022,TV-14,62,"['drama', 'romance']",1,8.4,276,62.434,8
+ts311989,2022,TV-MA,93,"['documentation', 'music']",1,8.1,7269,6.492,7
+ts310057,2021,TV-MA,39,"['drama', 'thriller', 'comedy', 'crime']",1,7.5,16927,62.186,7.2
+ts225657,2021,TV-MA,47,['drama'],1,7.5,14040,21.349,7.3
+ts229335,2021,TV-MA,29,"['crime', 'drama', 'comedy']",1,6.8,3709,2.972,6.4
+ts287976,2021,TV-MA,45,"['drama', 'romance']",1,8.3,26732,29.825,8.9
+ts255037,2021,TV-MA,27,"['action', 'scifi', 'horror', 'animation']",1,5.8,9500,25.489,7.9
+ts312984,2022,TV-MA,68,['drama'],1,7.7,209,64.558,9
+ts95572,2021,TV-MA,57,"['drama', 'thriller', 'crime']",1,7.6,41782,29.419,7.6
+ts287352,2021,TV-MA,49,"['action', 'drama', 'thriller', 'crime']",1,7.1,8367,1.4,7.5
+ts273436,2021,TV-14,53,"['crime', 'history', 'documentation']",1,7,6028,4.696,7.3
+ts237972,2021,TV-MA,46,"['scifi', 'thriller', 'drama']",1,7,13095,73.252,7.2
+ts262246,2022,TV-PG,35,"['scifi', 'comedy', 'drama', 'family', 'fantasy']",1,5,500,5.887,8.1
+ts330347,2022,TV-MA,52,"['scifi', 'drama', 'fantasy', 'horror', 'thriller']",1,5.5,1492,218.835,6.7
+ts328541,2022,TV-MA,42,"['crime', 'documentation']",1,7,5224,8.688,6.7
+ts302363,2022,TV-14,76,"['drama', 'romance']",1,8.7,4081,76.371,8.6
+ts88578,2021,TV-MA,52,"['drama', 'romance']",1,7.4,20300,21.558,7.7
+ts308845,2021,TV-MA,67,"['drama', 'thriller', 'crime']",1,8,7313,12.167,8.3
+ts330425,2022,TV-MA,51,['documentation'],1,4.7,64,6.073,7.3
+ts282131,2021,TV-PG,51,['documentation'],1,8.2,3090,3.813,7.6
+ts331680,2022,TV-PG,41,['reality'],1,7,557,3.698,7
+ts220553,2021,TV-14,53,"['crime', 'drama', 'fantasy', 'scifi']",1,5.9,14714,14.099,7.6
+ts328194,2021,TV-MA,50,"['thriller', 'action', 'crime', 'drama']",1,7.8,18446,90.655,8.4
+ts307649,2021,TV-14,62,"['war', 'history', 'documentation']",1,8,8881,12.219,7.4
+ts296214,2021,TV-MA,27,"['war', 'history', 'documentation']",1,7.4,8041,13.37,7.4
+ts283080,2021,TV-MA,41,"['drama', 'crime', 'thriller']",3,6.4,12148,96.969,7.7
+ts287438,2021,TV-MA,58,"['crime', 'drama', 'thriller']",1,7.8,29019,17.533,7.8
+ts219423,2021,TV-PG,26,"['scifi', 'animation', 'action', 'drama', 'family', 'fantasy', 'comedy']",2,5.2,26127,29.588,7
+ts108042,2021,TV-Y7,131,"['comedy', 'drama', 'family', 'fantasy', 'animation', 'action']",1,8.1,3597,55.962,7.7
+ts271413,2021,TV-MA,47,"['crime', 'documentation']",1,7.5,23939,14.926,7.4
+ts343427,2022,TV-Y7,25,"['action', 'fantasy', 'scifi', 'animation', 'comedy', 'family']",1,6.6,148,23.058,6.7
+ts272980,2021,TV-MA,42,"['crime', 'drama', 'scifi', 'thriller', 'action']",1,6.6,12367,17.293,6.9
+ts273229,2022,TV-MA,50,"['scifi', 'crime', 'drama', 'fantasy', 'horror', 'thriller']",1,5.7,1532,27.69,7
+ts328605,2022,TV-14,44,"['crime', 'drama', 'history']",1,7.1,6624,6.78,7.2
+ts314135,2021,TV-MA,20,['documentation'],1,6.8,1255,3.794,7.2
+ts287559,2021,TV-MA,45,"['scifi', 'action', 'drama', 'fantasy']",1,6.7,37235,48.307,7.3
+ts270405,2021,TV-14,29,"['comedy', 'documentation']",1,8.1,7096,5.846,7.7
+ts271595,2021,TV-MA,55,"['documentation', 'crime', 'thriller']",1,5.9,16799,27.734,7.2
+ts290643,2021,TV-MA,30,"['scifi', 'drama', 'animation', 'action', 'crime', 'fantasy']",1,7.1,1984,4.011,7.1
+ts329700,2022,TV-MA,43,['reality'],1,5.5,522,2.569,5.5
+ts314594,2021,TV-MA,40,"['documentation', 'crime']",2,7.1,2908,22.866,6.9
+ts315611,2021,TV-PG,45,['documentation'],2,7.9,857,3.401,8.7
+ts297483,2021,TV-14,78,"['comedy', 'romance', 'drama']",1,8.5,9987,34.738,8.2
+ts1475,2022,TV-MA,44,"['scifi', 'thriller', 'drama']",1,4.3,1111,10.197,6.9
+ts297846,2021,TV-14,34,"['comedy', 'romance']",2,7.1,2827,40.403,7.4
+ts288087,2021,TV-14,55,"['crime', 'documentation', 'history']",1,6.8,5093,3.62,6.5
+ts329885,2022,TV-MA,46,"['comedy', 'drama']",1,6.2,133,4.036,9
+ts296563,2022,TV-PG,44,"['drama', 'fantasy', 'romance']",1,9.2,81,57.401,8.7
+ts304053,2021,TV-14,50,['documentation'],1,7.9,1642,4.827,6.7
+ts253813,2021,TV-MA,44,"['drama', 'history', 'thriller']",1,8,3941,4.075,7
+ts284702,2021,TV-MA,53,"['crime', 'history', 'documentation']",1,6.5,4246,4.116,7
+ts299865,2021,TV-MA,43,"['crime', 'documentation']",1,6.8,1698,3.388,6.9
+ts269676,2021,TV-MA,21,"['comedy', 'documentation']",1,6.4,4776,1.4,6.9
+ts104499,2021,TV-MA,29,"['crime', 'action', 'fantasy', 'horror', 'thriller', 'animation', 'scifi']",1,7,3701,31.828,7.4
+ts288744,2022,TV-14,69,"['drama', 'fantasy', 'music']",1,8,982,53.301,7.5
+ts319303,2022,TV-PG,26,"['drama', 'comedy', 'romance']",1,1.6,2735,6.878,4
+ts314742,2021,TV-Y7,26,"['scifi', 'action', 'fantasy', 'animation', 'comedy', 'drama', 'family']",2,5.8,1618,28.193,7.4
+ts272463,2021,TV-14,32,"['drama', 'sport']",1,5.4,7021,32.746,6.5
+ts286317,2021,TV-MA,60,"['documentation', 'crime', 'history']",1,7,8124,8.566,7.4
+ts320426,2021,TV-MA,49,"['crime', 'documentation', 'history']",1,6.5,3355,6.297,7
+ts296825,2021,TV-MA,49,"['drama', 'crime', 'thriller']",1,6.3,3863,7.426,5.9
+ts256311,2021,TV-MA,25,"['action', 'horror', 'scifi', 'thriller', 'animation']",1,6.6,2575,42.457,8.4
+ts269881,2021,TV-MA,24,"['scifi', 'drama', 'fantasy', 'thriller', 'animation', 'action']",1,6.2,4647,147.396,8.6
+ts287294,2021,TV-14,23,['documentation'],1,6.9,2143,15.194,7.7
+ts312071,2021,TV-MA,17,"['animation', 'action', 'comedy', 'crime', 'drama', 'romance']",1,7.3,3724,24.343,8.7
+ts271888,2021,TV-MA,50,"['scifi', 'drama', 'fantasy', 'action']",1,6.8,37995,81.023,8.4
+ts250092,2021,TV-PG,23,"['comedy', 'fantasy', 'animation', 'action', 'scifi']",1,7,1480,73.903,8.4
+ts302312,2021,TV-MA,43,"['war', 'action', 'drama', 'history']",1,5.7,1718,45.098,7.2
+ts287328,2021,TV-MA,29,"['scifi', 'action', 'drama', 'fantasy', 'thriller', 'animation']",1,6.2,4999,12.642,7.8
+ts317422,2021,TV-14,23,"['animation', 'comedy']",1,7.6,846,5.326,5.6
+ts265991,2021,TV-MA,54,['drama'],1,7.4,3637,16.009,7.1
+ts304468,2022,TV-MA,73,"['drama', 'romance']",1,7.9,150,10.741,9.5
+ts315041,2021,TV-MA,71,"['scifi', 'thriller', 'drama', 'fantasy']",1,7.4,1897,41.943,8.1
+ts291718,2021,TV-14,24,"['comedy', 'drama', 'romance']",1,5.7,4209,5.759,7
+ts300456,2021,TV-MA,40,['reality'],1,5.5,1170,4.329,6.5
+ts307925,2021,TV-MA,32,"['comedy', 'drama']",1,6.5,2841,9.044,5.8
+ts280892,2022,TV-MA,40,"['drama', 'romance']",1,6.4,1262,15.424,7.4
+ts273485,2021,TV-MA,24,"['thriller', 'animation', 'action', 'drama', 'sport']",2,6.6,1483,323.144,8
+ts268102,2022,TV-MA,61,"['drama', 'crime']",1,8,2163,167.055,8.4
+ts282133,2021,TV-Y7,19,['drama'],1,6.1,10,3.701,7.3
+ts273100,2021,TV-MA,26,"['scifi', 'action', 'thriller', 'animation', 'fantasy']",2,7.8,17429,38.415,8
+ts271604,2021,TV-14,25,"['animation', 'drama']",1,7.7,1712,17.658,7.7
+ts313781,2021,TV-14,47,"['drama', 'comedy']",2,7.9,7810,7.232,7.2
+ts311791,2021,TV-MA,48,"['documentation', 'crime', 'history']",1,6.4,1864,26.15,6.7
+ts305264,2021,TV-PG,38,['reality'],1,7.6,1572,3.352,6.9
+ts222864,2021,TV-14,44,"['drama', 'comedy', 'romance']",1,8.4,2019,44.455,9.4
+ts255486,2021,TV-14,24,"['scifi', 'animation', 'action', 'thriller']",1,6.5,1612,33.642,7.3
+ts215989,2021,TV-MA,43,"['drama', 'thriller', 'action', 'crime']",2,7.6,8176,10.27,7
+ts299874,2021,TV-MA,53,"['documentation', 'crime', 'history']",1,7.1,2624,3.628,7.8
+ts257345,2022,TV-MA,51,"['drama', 'comedy']",1,7.2,3634,5.624,7.6
+ts287722,2021,TV-14,30,['comedy'],2,6.8,2296,1.4,8.4
+ts270798,2021,TV-PG,69,"['drama', 'romance']",3,6.6,433,34.001,6.6
+ts320302,2022,TV-MA,55,"['documentation', 'sport']",1,6.6,2907,43.212,7.4
+ts246178,2021,TV-PG,25,"['scifi', 'fantasy', 'animation', 'action', 'drama', 'family']",1,6.6,1111,10.658,6.9
+ts246073,2021,TV-MA,47,"['scifi', 'fantasy', 'action', 'drama']",1,6.7,11794,53.488,7.2
+ts192196,2021,TV-MA,23,"['scifi', 'animation', 'action', 'comedy', 'crime', 'fantasy']",1,6.4,4963,20.176,7.3
+ts308838,2021,TV-MA,65,"['crime', 'sport', 'documentation']",1,7.3,1912,2.785,7.4
+ts216407,2021,TV-MA,43,"['drama', 'history', 'war', 'documentation', 'action']",1,7.4,4022,36.228,7.1
+ts271025,2021,TV-MA,39,['reality'],2,5.8,2608,6.769,9.2
+ts29800,2021,TV-MA,54,"['documentation', 'reality']",1,6.1,1991,0.6,6.9
+ts317078,2022,TV-14,51,"['drama', 'thriller']",1,7,542,10.647,8.1
+ts305263,2021,TV-PG,49,['reality'],1,7,1004,5.68,6
+ts271321,2021,TV-MA,66,"['crime', 'thriller', 'drama']",1,8.1,2776,14.702,8.4
+ts220196,2021,TV-Y7,29,"['scifi', 'action', 'family', 'fantasy', 'animation', 'comedy']",2,7.6,1939,9.714,7.5
+ts289620,2021,TV-MA,45,"['documentation', 'crime', 'history']",1,7.4,9504,12.606,7.6
+ts301999,2021,TV-MA,47,"['scifi', 'drama', 'thriller']",1,6.5,1413,28.752,7.2
+ts319333,2021,TV-MA,42,"['crime', 'documentation']",1,6.2,1330,4.29,6.5
+ts313668,2021,TV-14,19,"['drama', 'comedy', 'animation']",1,8.7,7595,51.108,8.4
+ts283610,2021,TV-MA,42,"['drama', 'romance', 'comedy']",1,6.4,1514,11.091,6
+ts306510,2021,TV-Y,25,"['family', 'animation']",1,7.4,66,20.5,8
+ts271517,2021,TV-14,29,['comedy'],1,6.5,5396,11.347,7.2
+ts306322,2021,TV-MA,46,"['drama', 'crime']",1,7,3954,4.269,7.4
+ts302714,2021,TV-MA,47,"['drama', 'crime']",1,6.5,1319,10.804,7.3
+ts271593,2021,TV-MA,34,['documentation'],1,6.7,1976,8.201,7
+ts310376,2021,TV-MA,35,"['comedy', 'romance']",1,4.8,713,9.494,5.3
+ts280693,2021,TV-Y,11,"['animation', 'comedy', 'fantasy', 'drama', 'music', 'family']",1,1.7,509,2.153,8
+ts293814,2021,TV-PG,20,['reality'],1,6.2,341,3.389,7.2
+ts296129,2021,TV-MA,12,"['drama', 'crime', 'thriller']",1,7.4,2254,25.284,8.2
+ts320557,2021,TV-MA,12,"['comedy', 'drama']",1,6.1,671,90.94,7.3
+ts301196,2021,TV-PG,43,['documentation'],1,5.5,1371,28.31,7.3
+ts320502,2022,TV-MA,26,"['comedy', 'reality']",1,7,494,1.827,7.5
+ts317297,2022,TV-14,32,"['action', 'scifi', 'drama', 'fantasy', 'animation']",2,6.4,497,11.697,8
+ts223450,2021,TV-MA,52,['drama'],1,8.6,5307,41.824,7.8
+ts255779,2021,TV-Y,23,"['fantasy', 'animation', 'comedy', 'family']",4,7.2,344,1.4,8.8
+ts287045,2021,TV-MA,42,"['crime', 'drama', 'thriller']",1,7.4,8185,1.4,7.3
+ts320183,2021,TV-PG,64,['reality'],2,7.2,1460,6.402,9
+ts301914,2021,TV-14,69,"['action', 'comedy', 'thriller']",1,6.9,534,12.57,7.3
+ts283676,2021,TV-MA,60,"['documentation', 'sport']",1,8.3,2429,6.768,7.7
+ts272669,2021,TV-Y,30,['family'],1,7.5,463,4.111,7
+ts317612,2022,TV-PG,57,"['reality', 'romance']",1,7.1,394,15.158,7.5
+ts308511,2022,TV-14,39,"['comedy', 'drama']",1,6.6,574,7.725,6.3
+ts269286,2022,TV-MA,30,"['scifi', 'comedy', 'fantasy']",1,5.4,437,456.283,6.9
+ts320075,2021,TV-MA,41,"['crime', 'thriller', 'drama']",1,7.9,7629,5.317,7.7
+ts304058,2021,TV-MA,46,"['action', 'crime', 'drama', 'thriller']",1,7,2460,46.384,7.4
+ts296091,2021,TV-MA,11,"['drama', 'romance']",1,6.3,1851,25.481,7.6
+ts72196,2021,TV-14,30,['reality'],2,6.7,325,2.434,6.7
+ts269493,2021,TV-G,22,"['documentation', 'animation']",1,8.4,1540,5.733,7.8
+ts310331,2021,TV-MA,30,['reality'],1,6,427,5.783,1
+ts287802,2021,TV-G,30,"['documentation', 'drama', 'family', 'comedy']",1,7.9,824,3.024,7.8
+ts239188,2021,TV-MA,44,"['thriller', 'drama']",1,5.7,2302,10.995,7.7
+ts283528,2021,TV-MA,44,"['music', 'documentation']",1,6.9,1076,5.624,7.8
+ts306068,2021,TV-MA,50,"['drama', 'romance']",1,6.4,691,4.904,8.1
+ts319412,2022,TV-14,66,"['drama', 'romance']",1,7.2,1016,23.8,9
+ts272366,2021,TV-MA,59,"['war', 'documentation', 'history']",1,7.8,1281,11.337,7.1
+ts271726,2021,TV-Y,24,['animation'],2,7.2,179,6.394,8
+ts317526,2021,TV-MA,40,['reality'],1,4.4,708,3.28,10
+ts258415,2021,TV-14,24,"['fantasy', 'horror', 'thriller', 'family', 'drama', 'scifi']",1,5.5,4075,112.622,7
+ts302653,2021,TV-MA,57,"['drama', 'thriller', 'crime']",3,7.4,968,19.501,8.9
+ts330132,2022,TV-MA,52,"['documentation', 'crime']",1,6.9,459,3.827,6.5
+ts14520,2022,TV-Y,28,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",1,6.5,66,3.669,10
+ts271720,2021,TV-Y7,2,"['animation', 'comedy', 'family']",1,8.1,335,8.131,8.1
+ts282291,2021,TV-14,30,"['comedy', 'drama', 'romance']",1,7.4,2317,1.4,7.5
+ts296069,2021,TV-MA,12,"['drama', 'crime', 'thriller']",1,7.3,1903,30.602,7.7
+ts308516,2022,TV-MA,43,['reality'],1,4.6,354,7.159,9.8
+ts296059,2021,TV-MA,14,"['drama', 'romance']",1,6.9,2609,68.14,7.7
+ts104362,2021,TV-Y7,23,"['action', 'comedy', 'family', 'fantasy', 'scifi', 'animation']",3,7.9,1354,19.327,8.8
+ts321084,2022,TV-MA,31,"['comedy', 'crime']",1,6.8,900,4.697,7.1
+ts90023,2021,TV-14,48,['drama'],1,7.4,5708,76.499,7.5
+ts260502,2021,TV-MA,41,['drama'],1,7.4,631,14.12,9
+ts232506,2021,TV-MA,49,"['comedy', 'drama', 'thriller', 'crime']",1,6.9,5516,9.07,7.5
+ts326029,2022,TV-MA,38,"['drama', 'music']",1,6.3,28,312.625,7.1
+ts317720,2021,TV-MA,36,['reality'],1,6.7,1087,2.275,7.6
+ts312200,2022,TV-14,41,['reality'],1,3.9,2729,142.386,7.5
+ts244930,2022,TV-Y7,14,"['action', 'comedy', 'family', 'fantasy', 'animation']",1,6.3,436,27.957,7.2
+ts272939,2021,TV-MA,43,"['documentation', 'drama', 'history']",1,6.6,2702,8.884,7.9
+ts108621,2021,TV-MA,27,"['action', 'crime', 'drama', 'thriller']",3,6.5,8569,68.251,7.7
+ts292662,2022,TV-14,35,"['documentation', 'music']",1,7,94,1.92,7
+ts302489,2021,TV-MA,23,"['comedy', 'animation']",1,5.3,1383,4.432,6.5
+ts307745,2021,TV-MA,53,"['documentation', 'crime', 'drama']",2,7.7,836,64.787,7.4
+ts320872,2022,TV-14,50,['reality'],1,7.5,788,2.49,1
+ts288065,2021,TV-14,37,"['documentation', 'sport']",1,6.2,1287,1.4,7.5
+ts226392,2021,TV-MA,44,"['drama', 'comedy']",1,6.5,4907,15.189,7.6
+ts312094,2021,TV-14,54,"['scifi', 'war', 'drama']",1,6.7,404,7.92,5.8
+ts288195,2021,TV-MA,36,"['drama', 'fantasy', 'thriller', 'crime']",2,7.7,18,10.616,7.1
+ts257271,2021,TV-MA,13,"['drama', 'romance', 'comedy']",1,7.1,1183,6.521,7
+ts328617,2021,TV-MA,56,"['reality', 'romance']",1,5.4,443,11.347,7.5
+ts297247,2021,TV-G,23,['comedy'],2,3.4,232,2.874,9.5
+ts328317,2022,TV-MA,30,"['comedy', 'reality']",1,6.5,157,2.072,6.7
+ts297675,2021,TV-14,23,"['reality', 'romance']",2,4.6,1105,47.536,6
+ts282840,2021,TV-MA,30,['documentation'],1,6.6,311,3.014,6.9
+ts302058,2021,TV-MA,32,"['comedy', 'drama']",1,6.2,335,5.414,7.5
+ts321437,2022,TV-MA,43,"['drama', 'romance']",1,6.1,704,18.976,6.6
+ts291150,2021,TV-MA,48,"['comedy', 'drama']",1,7.2,478,2.744,8
+ts330012,2022,TV-MA,23,"['comedy', 'romance']",1,6.7,1302,6.71,6.4
+ts313849,2021,TV-PG,29,['reality'],1,6.7,466,1.941,7.5
+ts329711,2022,TV-14,27,"['drama', 'comedy', 'romance']",1,5.3,65,20.664,6
+ts235563,2021,TV-MA,38,"['romance', 'fantasy', 'comedy', 'drama']",2,7.2,1766,69.452,7.5
+ts302570,2021,TV-MA,50,"['crime', 'documentation']",1,6.5,777,2.647,7.8
+ts310335,2021,TV-MA,48,['reality'],2,4.2,609,6.359,6.7
+ts305890,2021,TV-14,36,"['reality', 'romance']",1,5.2,260,4.966,7.3
+ts331654,2022,TV-MA,38,"['action', 'crime', 'thriller', 'drama']",1,7.5,51,7.027,7
+ts325756,2022,TV-MA,37,['documentation'],1,6.6,474,2.764,6
+ts273245,2021,TV-14,25,"['comedy', 'family']",1,4.1,1853,5.64,7.5
+ts287703,2021,TV-14,69,['drama'],1,7.8,1101,9.07,7.6
+ts289364,2021,TV-14,32,['documentation'],1,6.3,266,4.257,6.3
+ts301609,2021,TV-MA,56,"['romance', 'reality']",1,6.1,425,5.109,6.4
+ts297065,2021,TV-MA,30,['reality'],1,5.8,680,6.217,5.5
+ts304709,2021,TV-PG,38,['reality'],1,6.9,651,5.274,8
+ts273318,2021,TV-PG,24,"['drama', 'comedy', 'action', 'family', 'music']",1,6.9,3301,9.488,7.8
+ts329882,2022,TV-Y,30,"['drama', 'family', 'music']",1,5.9,110,26.996,8
+ts317144,2021,TV-MA,19,"['comedy', 'animation']",1,5.2,496,7.408,7.7
+ts282155,2021,TV-MA,24,"['scifi', 'action', 'comedy', 'drama', 'fantasy']",1,5.6,1270,7.106,7.6
+ts285469,2021,TV-G,19,"['animation', 'documentation']",1,6.8,445,1.4,8.8
+ts272515,2021,TV-MA,32,"['action', 'drama', 'crime', 'thriller']",1,6.1,659,5.143,7
+ts299485,2021,TV-Y7,31,"['comedy', 'family', 'fantasy', 'animation', 'action']",1,7.3,1193,15.774,7.7
+ts288540,2021,TV-MA,59,"['drama', 'thriller', 'crime']",1,7.2,8668,4.004,6.8
+ts313902,2021,TV-MA,37,"['comedy', 'documentation']",1,5.5,83,1.709,3
+ts287149,2022,TV-MA,32,['reality'],1,2.3,2860,1.4,5
+ts316965,2021,TV-Y,28,"['animation', 'comedy', 'family', 'fantasy']",3,4.7,223,5.089,8
+ts297763,2021,TV-14,44,"['documentation', 'crime']",1,6.8,1009,11.334,7
+ts300274,2021,TV-MA,23,['reality'],1,5.2,1055,4.166,6.6
+ts299321,2021,TV-Y7,22,"['comedy', 'family', 'fantasy', 'scifi', 'animation', 'action']",1,7.2,560,16,7.5
+ts288997,2021,TV-PG,52,['documentation'],1,6.8,697,1.4,8.7
+ts306135,2021,TV-MA,39,"['documentation', 'crime', 'thriller']",1,6.7,232,2.823,6.6
+ts289757,2021,TV-MA,52,"['documentation', 'crime']",1,7.2,934,2.376,7
+ts309676,2021,TV-PG,35,['reality'],2,6.7,1278,5.156,7.4
+ts311958,2021,TV-14,63,['reality'],1,7.5,218,6.006,8
+ts288064,2021,TV-MA,47,"['drama', 'history', 'crime']",1,7.1,1108,25.66,7.7
+ts287941,2021,TV-14,70,"['comedy', 'family', 'drama', 'sport']",1,1.8,27484,3.427,8
+ts283639,2021,TV-MA,30,"['comedy', 'drama']",1,8,6379,3.979,8.7
+ts311915,2022,TV-MA,39,"['drama', 'comedy', 'music', 'romance', 'family']",2,6.2,2122,170.773,7.4
+ts257315,2021,TV-Y,11,"['animation', 'comedy', 'family']",2,6.2,134,14.657,6.9
+ts287741,2021,TV-PG,25,"['documentation', 'reality']",1,6.2,603,1.4,7.7
+ts304690,2021,TV-MA,67,"['action', 'crime', 'drama', 'romance']",1,7.4,65,2.183,7
+ts314963,2021,TV-PG,35,['reality'],1,5.7,76,1.61,6
+ts307981,2021,TV-G,26,"['scifi', 'family', 'fantasy', 'comedy']",1,6.2,338,17.563,6.8
+ts288545,2021,TV-Y7,5,"['family', 'music', 'animation', 'comedy']",1,3.4,674,2.522,8
+ts61384,2021,TV-PG,70,"['reality', 'romance', 'documentation']",1,7.5,281,2.859,5
+ts296179,2021,TV-MA,32,['comedy'],1,5.6,373,51.527,7.2
+ts273275,2021,TV-G,40,['reality'],1,5.1,433,3.157,10
+ts320407,2021,TV-PG,33,"['reality', 'romance']",2,7.9,97,4.84,8
+ts293346,2022,TV-MA,47,"['documentation', 'sport']",1,5.9,402,4.274,5.7
+ts285471,2021,TV-MA,32,"['comedy', 'reality']",1,4.9,85,0.6,10
+ts283614,2021,TV-14,33,"['reality', 'horror']",1,5.3,572,38.749,7.4
+ts285470,2021,TV-PG,27,"['reality', 'family']",1,4.9,117,1.4,8.7
+ts296201,2021,TV-MA,49,"['crime', 'documentation']",1,5.9,2088,4.902,6.4
+ts282876,2021,TV-14,38,"['documentation', 'crime']",1,6.9,658,1.785,8
+ts331449,2022,TV-14,61,"['documentation', 'crime']",1,6.3,193,6.837,5
+ts287729,2021,TV-MA,51,"['drama', 'documentation']",1,8.3,2323,2.433,9
+ts267062,2021,TV-MA,38,['drama'],1,5.5,263,12.93,7.9
+ts288832,2021,TV-Y7,15,"['comedy', 'family', 'animation']",1,7,204,5.429,8.2
+ts272092,2021,TV-14,35,"['documentation', 'reality']",1,6.5,886,1.4,7.1
+ts316882,2021,TV-MA,47,"['crime', 'documentation']",1,7.6,179,8.32,7
+ts285106,2021,TV-14,36,"['crime', 'documentation']",1,6.3,727,1.4,7.8
+ts302056,2021,TV-14,34,"['reality', 'sport']",1,5.4,318,5.064,5.6
+ts285874,2021,TV-MA,23,"['reality', 'comedy']",1,6,77,1.173,4.3
+ts282214,2021,TV-14,65,"['drama', 'action', 'fantasy', 'horror', 'romance']",1,7.5,98,3.009,9
+ts274575,2021,TV-PG,25,['reality'],1,6.8,145,0.969,10
+ts314962,2021,TV-14,46,['documentation'],1,7.4,202,5.978,7.6
+ts289982,2021,TV-MA,60,"['drama', 'thriller', 'action', 'crime']",1,5.9,281,34.653,7
+ts317709,2021,TV-PG,13,"['animation', 'comedy', 'fantasy', 'action']",2,6.3,314,3.679,6.7
+ts293103,2022,TV-MA,26,"['comedy', 'drama']",1,6.8,339,138.103,7.8
+ts308053,2021,TV-MA,41,"['documentation', 'reality']",1,6.6,205,1.81,7
+ts188367,2021,TV-MA,49,['drama'],1,5.3,4841,3.164,8.3
+ts330422,2022,TV-Y,20,"['action', 'animation', 'family']",1,7.2,21,4.843,7
+ts270616,2021,TV-14,47,"['documentation', 'sport']",1,6.5,156,4.095,8.7
+ts320335,2022,TV-MA,48,"['drama', 'romance']",1,5.5,265,10.826,8
+ts285422,2021,TV-14,41,"['drama', 'thriller']",1,8,1565,1.4,7
+ts283284,2021,TV-MA,34,['drama'],1,5.9,3470,2.595,6.6
+ts297685,2021,TV-14,45,"['drama', 'romance']",1,7.8,24,1.083,6
+ts308002,2021,TV-MA,34,['drama'],1,6.9,1728,70,7.3
+ts284885,2021,TV-14,25,"['drama', 'comedy', 'crime']",1,6.6,433,1.4,8.5
+ts309235,2021,TV-MA,50,"['music', 'romance', 'comedy']",1,5.8,702,6.925,6.9
+ts307816,2021,TV-PG,49,['documentation'],1,7.3,15,1.834,4
+ts273317,2021,TV-MA,37,"['drama', 'romance']",1,5.1,727,1.4,5.5
+ts286386,2021,TV-MA,45,"['reality', 'romance']",2,4.6,327,1.4,6
